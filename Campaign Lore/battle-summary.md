@@ -3,7 +3,7 @@
 Quick reference for all battles. Enrich future battles by avoiding repeated mechanics, locations, themes, and objective designs.
 
 **Campaign:** Arc 1 — The Scavenger's Race (Battles 1–5 complete) | Arc 2 — The Shattered Firmament (Battle 6 complete)
-**Current Arc:** Arc 2, Battle 7 — The Crystal Siege (upcoming)
+**Current Arc:** Arc 2, Battle 7 — The Accounting (upcoming)
 
 ---
 
