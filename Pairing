@@ -1,0 +1,135 @@
+# Campaign Engine — Pairing Session Recap
+*March 2026 — Gitz vs Slaves Path to Glory Campaign*
+
+---
+
+## What We Built
+
+Over the course of this campaign we've built a **multi-agent narrative campaign engine** for running a Warhammer Age of Sigmar Path to Glory campaign. It isn't just a rules tracker — it's a story machine that manages three intertwined systems: **army state**, **narrative lore**, and **battle design**, with each informing the other.
+
+### The Agents
+
+| Agent | File | Role |
+|---|---|---|
+| **Campaign Engine** | `Path to Glory - Campaign Gem Instructions.md` | Generates battleplans, objectives, asymmetric VP, underdog mechanics |
+| **Aftermath Engine** | `Path to Glory - Aftermath Gem Instructions.md` | Processes battle reports, manages rank-ups/scars, runs Arc Compass survey |
+| **Arc Planner** | `AI Planning/arc-planning.md` | Living reference for narrative arcs, active threads, character development seeds |
+
+### The Documents
+
+| Document | Role |
+|---|---|
+| `Campaign Lore/Battle Bible.md` | **Source of truth** — army rosters, GP, wounds, rank-ups, scars |
+| `Campaign Lore/battle-summary.md` | Battle-by-battle reference — hooks, results, battlefield design, tracker tables |
+| `Campaign Lore/campaign-novel.md` | Living prose novel — character development, dialogue, location intros |
+| `AI Planning/arc-planning.md` | Arc themes, character seeds, Arc Compass response log |
+| `WH P2G/Path to Glory.md` | Core rules reference |
+
+---
+
+## The Four-Step Loop
+
+This is the campaign's operating rhythm. Each step feeds the next.
+
+```
+BATTLE → [1] REPORT → [2] AFTERMATH → [3] UPDATE → [4] PLAN
+           ↑______________________________________________|
+```
+
+---
+
+### Step 1 — Battle Stats Report
+*"What happened on the table?"*
+
+**Input:** Players provide the raw result — VP totals, units destroyed/fled, hero moments, any special objective outcomes.
+
+**Current state:** Freeform text. Players narrate the result; the Aftermath Engine reads it.
+
+**Opportunities:**
+- Define a lightweight **Battle Report Template** so players input data in a consistent format. Less interpretation work for the engine.
+- Fields: Final VP, round-by-round obj control, units destroyed (by whom), hero actions (charges, kills, Last Breath attempts), battle round count.
+- Add **Battle Underdog tracking** — note which player had fewer total GP at round 1, and whether underdog status flipped during play.
+- Consider a **structured markdown form** rather than freeform prose — the Aftermath Engine can parse it faster and with fewer errors.
+
+---
+
+### Step 2 — Aftermath (Narrative + Character Development)
+*"What did winning or losing cost?"*
+
+**Input:** Battle report + previous Campaign Bible (from `Battle Bible.md`).
+
+**Current state:** Aftermath Engine runs the full post-battle sequence — GP calc, rank-up/scar thresholds, narrative survey, infirmary, and now the **Arc Compass** (2–3 story direction questions).
+
+**Opportunities:**
+- **Arc Compass responses** need to be explicitly copy-pasted into `arc-planning.md` each session. This is a manual step that could be formalized — Aftermath Engine should output a clearly delimited block ready for paste.
+- The **Narrative Survey** questions sometimes feel generic. They should always be sourced from a specific battle moment — the engine should reference the Battle Report when writing them, not improvise.
+- **Quest tracking** is underused. The Aftermath Engine should check quest progress against the Battle Report (e.g., "Did a Hero search terrain? Did a Wizard cast 8+?") and prompt the player to confirm quest points earned.
+- **Underdog bonus for next battle** should be calculated and flagged here — it sets up the Campaign Engine with the right balance parameter.
+
+---
+
+### Step 3 — Update Battle Bible & Army Trackers
+*"What is the true state of both warbands?"*
+
+**Input:** Aftermath Engine output (Campaign Bible block).
+
+**Current state:** The Campaign Bible is output as a formatted markdown block, then manually updated into `Battle Bible.md`. Also requires updating `battle-summary.md` trackers and adding to `campaign-novel.md`.
+
+**Opportunities:**
+- This is the **most fragile step** — three documents need updating and each one has its own format. Errors compound.
+- A `battle-summary.md` **row template** (pre-filled from the Aftermath output) would reduce the chance of tracker tables drifting out of sync.
+- The **campaign-novel.md** update is currently manual — prose is written by the AI during session based on user-provided recap. This works but requires the user to bring the recap. A better flow: novel update happens *automatically after* Arc Compass responses are given, using the battle report + player narrative choices as source material.
+- **Version discipline:** `Battle Bible.md` is the source of truth for the *next* battle. It must be confirmed updated before the Campaign Engine is run. Consider a simple checklist header in the Bible confirming "Updated for Battle N ✅".
+
+---
+
+### Step 4 — Plan the Next Battle
+*"What does the battlefield look like and why?"*
+
+**Input:** `arc-planning.md` (themes, active threads), `battle-summary.md` (what's been done before), `Battle Bible.md` (army state, underdog status), player Arc Compass choices.
+
+**Current state:** Campaign Engine generates the battleplan — location, objectives, VP scoring, asymmetric mechanics, underdog benefit. No image generation yet.
+
+**Opportunities:**
+- **Battle map image generation** — top-down sketch of the battlefield: terrain placement, objective locations, deployment zones, any narrative centrepiece (the Crystalline Spire, the Shattered Crater). The Campaign Engine should output a structured map description prompt usable with an image generator.
+- **Objective card design** — each named objective should have a card: name, control rule, VP value, asymmetric effect (if any), and a narrative flavour line.
+- The **underdog VP mechanic** needs a concrete formula visible to both players before the battle starts. The engine should print this explicitly: *"StD is the underdog. For this battle: [specific underdog benefit]."*
+- **Battle summary row stub** — the Campaign Engine should output a pre-filled `battle-summary.md` row with the planned battle's fields. After the battle is played, the result columns are filled in. This closes the loop back to Step 1.
+- **Arc Compass → Battle Hook link** should be explicit: the engine should cite which Arc Compass answer(s) from the previous battle influenced the hook for this one.
+
+---
+
+## The Big Opportunities
+
+### 🔗 Close the Loop Explicitly
+Each step's output should explicitly reference what feeds the *next* step. Right now the handoffs are documented but not enforced. A **Campaign Run Checklist** at the start of each session would help:
+
+```
+Before running the Aftermath Engine:
+[ ] Battle report complete (VP, destroyed units, hero actions, round count)
+[ ] Previous Battle Bible is loaded
+[ ] arc-planning.md is current
+
+Before running the Campaign Engine:
+[ ] Aftermath output confirmed and Battle Bible updated
+[ ] Arc Compass responses logged in arc-planning.md
+[ ] Underdog status calculated
+```
+
+### 🗺️ Battle Map Generation
+The biggest missing piece. A structured map description prompt from the Campaign Engine → image generation → visual reference for both players. Even a simple top-down diagram with objective icons would transform the pre-battle experience.
+
+### 📖 Novel Auto-Update
+The `campaign-novel.md` chapter for each battle could be drafted *as part of the Aftermath step* once Arc Compass choices are made. The engine already has everything it needs: battle report, character state, player choices, narrative threads. The user's only job would be light editing rather than providing the raw recap separately.
+
+### ⚖️ Underdog System Visibility
+The underdog benefit currently lives inside the Campaign Engine's generation logic. It should be **explicitly printed and agreed before the battle starts** — a visible, agreed parameter, not something that only the engine knows. This also lets players lean into the narrative of "the underdog" rather than just receiving a mechanical nudge.
+
+---
+
+## What This System Does Well
+
+- **Narrative + mechanics are never decoupled.** Every rank-up is a character arc. Every scar is a story consequence. The Silent Mapping Protocol ensures this.
+- **The arc planning is theme-forward.** The engine asks "what's interesting here?" before it asks "what's balanced?" This is rare in campaign systems and keeps the story feeling authored rather than generated.
+- **Counter-tropes are built in.** The active instruction to avoid "lame stories" and push against expected outcomes (the losing faction as the most interesting faction; the winning faction becoming something unsettling) is embedded in the reference doc now, not just in the user's head.
+- **The documents evolve.** `battle-summary.md` trackers, `campaign-novel.md` chapters, `arc-planning.md` threads — none of these are static. They accumulate in ways that make the story richer over time.
