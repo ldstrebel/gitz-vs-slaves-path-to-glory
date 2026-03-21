@@ -12,6 +12,7 @@
 | **Campaign Underdog** | — | ✅ StD (fewer total GP) |
 | **Battle Record** | 4W–2L | 2W–4L |
 | **Current Arc** | Arc 2: The Shattered Firmament |
+| **Active Quests** | **Gitz:** Harness Manifestation (World-Eater Frequency) | **StD:** Rise of a Champion (Malakor) |
 
 > **Underdog Rule:** The player with fewer *total GP earned* (not current treasury) is the underdog for Round 1 of each battle. The underdog status can switch after each subsequent round based on current battle VP totals.
 
@@ -38,10 +39,10 @@
 - **Boingrot Bounderz — Adrenaline Junkies:** They're elite now. Starting to take *risks* no sane squig rider would take.
 - **Loonsmasha Fanatics — Momentum Crash:** Their Elite path makes them devastating on contact. But post-crash they're dangerously exposed. This is a unit that lives and dies by its opening move.
 
-### Gunnar Brand / Slaves to Darkness
-- **Default Commander:** With the Chaos Lord dead and the Sorcerer drained, Gunnar Brand commands by default. He didn't ask for this. What does that mean for a man who survived by following orders?
-- **The Numbness (B6 rank-up):** Ward 6+. Physically, something has shut off in him. Whether that's a gift or a warning sign is a story question.
-- **Singri Brand — The Ghost-Daughter:** Has the Father's Keeper scar. Unexplored. Her being called "Ghost-Daughter" while alive is a thread that wants pulling.
+### Gunnar Brand / Malakor the Unyielding / Slaves to Darkness
+- **Malakor the Unyielding (New General):** An Anvil-built leader. He didn't rise to lead because he was powerful, but because someone had to carry the weight. His first test is the Bile Flats.
+- **Gunnar Brand — Default Commander:** With Malakor leading, Gunnar returns to the ranks. Physical numbness (Ward 6+) persists.
+- **Singri Brand — The Ghost-Daughter:** Has the Father's Keeper scar. Unexplored.
 - **Chaos Sorcerer Lord — Tethered & Drained:** Still alive. Still being siphoned. The warband's martyrdom theology says suffering *earns* something. How long before the Sorcerer becomes the symbol rather than the general?
 - **Chaos Chosen — Fractured Plate:** Serious scar (-1 Save). The most elite unit in the StD warband is now vulnerable. They probably don't react to that well.
 - **The Mutalith Vortex Beast — Chained:** Still with the StD. It destroyed the God-Batch vats by instinct. Now it's a liability chained to a broken warband. What does it want?

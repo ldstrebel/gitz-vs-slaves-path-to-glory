@@ -11,11 +11,15 @@
 
 Bossy found the Bile Flats by accident, or the frequency found them. Three days after the Veldt, the signal had been pulling consistently northwest — not frantic, just insistent, like a compass needle under a magnet. He stopped arguing with it somewhere around midday.
 
-The Bile Flats are what happens when something the size of a god bleeds into the earth and the earth has nowhere to put it. World-Eater bile has crystallised into amber plates across a hundred yards of dried lakebed, bone-spurs jutting up through the crust where the pressure built too high, the whole stretch creaking underfoot like old timber. The signal is strongest here. Bossy doesn't know what that means. He's stopped expecting to.
+The pitch has changed. That's the thing nobody else would notice, and Bossy isn't sure he can explain it. After the Chaos Lord went down on the Veldt, the sound inside his left ear moved — lower, slower, more deliberate. Less screaming. More like something very large paying attention. The God-Batch residue is still on his hands, dried to a faint amber crust along his knuckles. He's stopped trying to wash it off. He suspects, in the way grots suspect things without admitting them, that it has something to do with why the frequency changed.
 
-The Slaves to Darkness were already there.
+The Bile Flats are what happens when something the size of a god bleeds into the earth and the earth has nowhere to put it. World-Eater bile has crystallised into amber plates across a hundred yards of dried lakebed, bone-spurs jutting up through the crust where the pressure built too high, the whole stretch creaking underfoot like old timber. The signal is strongest here. Bossy doesn't know what that means. He has one working theory: *walk toward it.*
 
-Not the ones he knew. The Chaos Lord is dead — Bossy's knives saw to that. But the warband hadn't collapsed; it had contracted around something new. A figure in dark iron, not yet named, not yet scarred, looking back at Bossy across the amber crust with the particular stillness of someone who's been told exactly what they're walking into and chose to come anyway. The Chaos Chosen stand at his shoulder — six battles, Fractured Plate, and still unbroken. They've seen Bossy kill two of their lords. They have opinions about that.
+The warband hadn't collapsed; it had contracted around something new. **Malakor the Unyielding**, an Anvil-forged leader who didn't rise to lead because he was powerful, but because someone had to carry the weight. Malakor's first test is the Bile Flats. No magic. No theatrics. Just the stillness of someone who has been told exactly what they're walking into.
+
+The Chaos Sorcerer Lord stands somewhere at the back — still breathing, technically, though the Veldt left him spent and hollowed. The Chaos Chosen stand at Malakor's shoulder — six battles, a scar they'd never admit bothers them, and still unbroken. They've seen Bossy kill two of their lords. They have conclusions.
+
+The warband's theology says suffering earns something. Bossy killed their Lord. The Sorcerer was destroyed by the drain. The Chosen wear the scar every campaign now costs them. What the martyrdom accumulates toward — that's what Malakor embodies.
 
 Neither side is here to end the world. Both sides are here because something points here, and the only way to stop pointing is to find out what's at the end.
 
@@ -64,23 +68,39 @@ Score **1VP** each time a friendly unit is destroyed within 6" of the new StD Ge
 
 ### 1. The Frequency (Environmental)
 
-At the start of each round, before Priority is determined, the Gitz player rolls D6 for Grot Bossy alone.
+At the start of each round, before Priority is determined, the Gitz player rolls D6 for Grot Bossy alone. The frequency is not a gift — it is tinnitus with opinions.
 
 | Roll | Effect |
 |------|--------|
-| 1 | Subtract 1 from all his Run and Charge rolls this round — the signal overwhelms. |
+| 1 | The signal overwhelms. Subtract 1 from all his Run and Charge rolls this round *and* he may not use Titan's Whisper this round. |
 | 2–3 | No effect. |
-| 4+ | Add 1 to all his Run and Charge rolls this round. |
+| 4–5 | Add 1 to all his Run and Charge rolls this round. |
+| 6 | The dead god is paying attention. Add 1 to all his Run and Charge rolls *and* Titan's Whisper triggers automatically with no roll required this round (still gains 1 CP; does not risk Mortal Wound). |
 
 This applies only to Bossy, not his unit or the wider warband.
 
-### 2. Acid Seeps
+### 2. Titan's Whisper (Grot Bossy — Character Ability)
+
+Bossy carries the Titan's Whisper rank-up ability from Arc 2. At the start of each of his Hero Phases, he rolls D6:
+
+| Roll | Effect |
+|------|--------|
+| 1 | Suffer 1 Mortal Wound — the frequency bites. |
+| 2+ | Gain 1 Command Point. |
+
+This interacts with The Frequency (above). On a Frequency roll of 6, skip this roll — the CP is generated automatically.
+
+### 3. Acid Seeps
 
 Any unit that ends a Move, Run, or Charge within 1" of an Acid Seep Marker suffers **D3 Mortal Damage** on a 2+. Seep Markers are permanent — they do not move or deactivate.
 
-### 3. The Drained Sorcerer
+*Bossy exception:* Touching a Seep Marker costs Bossy nothing mechanically. He stands in the black residue and it makes the frequency louder. This has no in-game effect — it is a note for the Aftermath Gem.
+
+### 4. The Drained Sorcerer
 
 If the Chaos Sorcerer Lord is fielded, he remains DRAINED at the start of Battle 7. He cannot cast, unbind, or use abilities until the StD player rolls **4+** at the start of their Hero Phase. Once passed, the DRAINED status ends and he functions normally for the rest of the battle. One attempt per round only.
+
+*Narrative texture:* If the Sorcerer recovers his casting mid-battle, the first spell he successfully casts this battle heals 1 wound (Ritual Scarring ability activates). The Sorcerer's Fear of Silence scar (Serious — subtract 1 from Casting rolls) remains active and stacks with the DRAINED recovery check.
 
 ---
 
@@ -90,10 +110,18 @@ If the Chaos Sorcerer Lord is fielded, he remains DRAINED at the start of Battle
 If the Fanatics trigger Momentum Crash against a unit of 5+ models and succeed, note whether they survived the round after. If yes — they are learning to time their own destruction. If no — they hit perfectly and it cost them. That is their nature crystallised. Flag both outcomes for the Aftermath Gem.
 
 **Loonboss on Squig — Returning Veteran**
-The Loonboss on Squig enters B7 fully healed — no active scar. If he is destroyed this battle he will accumulate wounds and may re-trigger the Serious threshold (Cracked Ribs) again. If that happens, note the moment of destruction and what caused it. A unit that has already been broken once and comes back only to be broken the same way tells a story. Flag for the Aftermath Gem.
+The Loonboss on Squig enters B7 fully healed — Cracked Ribs cleared, Commands restored. He can issue Commands normally. If he is destroyed this battle, the wound total and cause of death go to the Aftermath Gem. A proud veteran who healed and came back only to be broken the same way tells a closed story. A proud veteran who healed and *doesn't* repeat the pattern tells a different one. Either way, flag it.
 
 **Chaos Chosen and the new General — the trust gap**
 If the new StD General issues a Command to the Chaos Chosen during the battle, note whether the command produced its intended result or led to the Chosen being destroyed following the order. This is the first data point in what may be a long assessment. Flag for the Aftermath Gem.
+
+*Secondary note — the Renown threshold:* The Chaos Chosen enter B7 at 28 Renown. Two more earns them Mighty rank. If they survive B7 and cross that threshold in the Aftermath, their rank-up happens in the shadow of a new general they may not yet respect. The Aftermath Gem should ask the StD player: does the Mighty milestone feel earned, or hollow?
+
+**Boingrot Bounderz — the Adrenaline Junkies in open terrain**
+B7's open flanks and hardpan edges are exactly where the Bounderz thrive — no obstacles, nothing to break the run. If they successfully Run and Charge in the same turn against a unit they do not destroy, note the outcome. The Adrenaline Junkies path is about *movement*, not kills. A charge that fails to break the target but commits them to a dangerous position is still on-flavour. Flag for the Aftermath Gem.
+
+**Grot Bossy — the frequency and the dead god**
+If Bossy rolls a 6 on the Frequency table in any round, the Aftermath Gem should note this moment and ask: *does Bossy know something changed, or does he just know his legs worked better this round?* The God-Batch residue on his hands and the lower pitch of the signal are texture — they are not answered this battle. But they are looked at.
 
 ---
 
@@ -114,24 +142,39 @@ Roll D6 at the start of any round in which StD is the underdog.
 
 ## Battle Summary Row (Pre-filled for battle-summary.md)
 
-| B7 | Central 2VP obj + 2 flanking 1VP objs | Asymmetric faction motivation (stalking vs suffering) | Long-edge, broken-ground no-man's-land, open flanks |
+| Battle | Core Mechanic | Secondary Type | Board Shape |
+|--------|--------------|---------------|-------------|
+| B7 | Central 2VP obj + 2 flanking 1VP objs | Asymmetric faction motivation (stalking vs suffering) | Bile Flats — amber plates, bone-spurs, acid seeps; long-edge deployment, open flanks |
 
 ---
 
-## Battle Map Description
+## Victory Epilogue Seeds
 
-*Structured prompt for image generation:*
+*Not mechanically active — these exist for the Aftermath Gem to use. Whichever outcome occurs, pick the appropriate seed.*
 
-A 44"×60" battlefield oriented landscape. Both deployment strips are 12" deep on the long edges — Gitz on south (bottom), StD on north (top). The central 20" band is the active terrain zone: crystallised amber-yellow bile plates with irregular cracked seam-lines running between them, like a dried lakebed seen from above. Five to seven bone-spur formations appear as jagged gray-white protrusions of 2" base size, clustered toward the center of the board and scattered slightly west. Three circular objective markers in a horizontal line through the center of the board, spaced 20" apart — the center one inside the densest bone-spur cluster. Three dark-stain acid seep markers in no-man's land, each clear of objectives. Both flanks are open pale hardpan with no terrain features. Palette: amber, bone-white, deep-black seep lines, and the pale sideways-refracted light of the Bad Moon catching the cracked amber plates.
+**If the Gitz win:** The frequency pulls Bossy across the amber toward the center objective — and something under the plates answers. Not loud. Not words. A shift in pressure, like an eardrum adjusting to altitude. The God-Batch residue on his knuckles has left a faint amber smear on one of the bone-spurs. He doesn't remember touching it. Whatever is in the ground under the Bile Flats, it has now noticed him specifically. Seed for B8: *the location is significant; Bossy may be the reason.*
+
+**If the StD win:** The new General holds the center and doesn't move. He lets the Gitz come to him and makes them stop. Whatever the martyrdom theology has been building toward, this battle is the first time the warband does something *with* it instead of just enduring. Seed for B8: *the new General's first tactical success defines what kind of commander he becomes — was it discipline, or was it luck?*
+
+**Regardless of outcome:** The Chaos Chosen survive or they don't. If they do — 28 Renown entering the Aftermath. If they don't — what does it mean that the unbroken unit finally broke on B7, the very battle the new General took command? The Aftermath Gem should sit with this regardless of the battle result.
+
+---
+
+## Battle Map
+
+![Battle 7 — The Bile Flats battlefield map](battle7_map.png)
 
 ---
 
 ## Pre-Battle Checklist
 
-- [ ] Confirm new StD General name, unit type, and Anvil profile with StD player
-- [ ] Confirm Chaos Chosen renown total — at 28, they are 2 from Mighty rank-up
-- [ ] Confirm Gitz player is aware Boingrot Bounderz (Adrenaline Junkies) can now Run and Charge same turn
-- [ ] Confirm Loonboss on Squig is cleared — Cracked Ribs healed to 0 wounds, he can issue Commands normally in B7
-- [ ] Remind StD player: Chaos Sorcerer begins DRAINED — must roll 4+ each Hero Phase to recover
-- [ ] Set aside 3 tokens for Acid Seep Markers before deploying
-- [ ] **RETCON — Chaos Chosen Shield Wall (B2):** The B2 Shield Wall ability (+1 Save vs chargers) was made entirely redundant by the B4 Iron-Bound Court ability (ignore all Save modifiers, positive or negative). Discuss with StD player before battle — agree on a replacement Aspiring-tier ability that would have mattered alongside Iron-Bound Court, or accept Shield Wall as historical record. Update character-development.md once resolved.
+- [x] **New StD General:** Malakor the Unyielding (Anvil Hero, 350 pts).
+- [x] **Active Quests:**
+  - **Gitz:** Harness Manifestation (Taming the World-Eater's Frequency).
+  - **StD:** Rise of a Champion (Malakor's First Battle).
+- [x] Confirm Chaos Chosen renown total — at 28, they are 2 from Mighty rank-up.
+- [x] Confirm Gitz player is aware Boingrot Bounderz (Adrenaline Junkies) can now Run and Charge same turn.
+- [x] Confirm Loonboss on Squig is cleared — Cracked Ribs healed to 0 wounds, he can issue Commands normally in B7.
+- [x] Remind StD player: Chaos Sorcerer begins DRAINED — must roll 4+ each Hero Phase to recover.
+- [x] Set aside 3 tokens for Acid Seep Markers before deploying.
+- [x] **RETCON — Chaos Chosen Shield Wall (B2):** Resolved.
