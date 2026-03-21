@@ -31,14 +31,36 @@ HTML = """<!DOCTYPE html>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: Georgia, serif; background: #1a1208; color: #e8d5a3; display: flex; height: 100vh; overflow: hidden; }
+
+  /* Overlay (mobile only) */
+  #sidebar-overlay {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 10;
+  }
+  #sidebar-overlay.active { display: block; }
+
+  /* Sidebar */
   #sidebar {
     width: 280px; min-width: 220px; background: #111008; border-right: 2px solid #5a3e1b;
     overflow-y: auto; padding: 0; flex-shrink: 0;
+    transition: transform 0.25s ease;
+    z-index: 20;
   }
-  #sidebar h1 {
+  #sidebar-header {
+    display: flex; align-items: center; justify-content: space-between;
+    background: #0d0a04; border-bottom: 1px solid #3a2810;
+    padding: 1.2rem 1rem 1rem;
+  }
+  #sidebar-header h1 {
     font-size: 1rem; text-transform: uppercase; letter-spacing: 2px;
-    color: #c9a84c; padding: 1.2rem 1rem 1rem; border-bottom: 1px solid #3a2810;
-    background: #0d0a04;
+    color: #c9a84c; margin: 0;
+  }
+  #sidebar-close {
+    display: none;
+    background: none; border: none; color: #c9a84c;
+    font-size: 1.4rem; cursor: pointer; line-height: 1; padding: 0 0.2rem;
   }
   .section-header {
     font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px;
@@ -52,6 +74,17 @@ HTML = """<!DOCTYPE html>
   }
   #sidebar a:hover { background: #221a08; border-left-color: #c9a84c; color: #f0d890; }
   #sidebar a.active { background: #2d2010; border-left-color: #c9a84c; color: #f0d890; font-weight: bold; }
+
+  /* Hamburger button (hidden on desktop) */
+  #menu-toggle {
+    display: none;
+    position: fixed; top: 0.9rem; left: 0.9rem; z-index: 30;
+    background: #0d0a04; border: 1px solid #5a3e1b; border-radius: 4px;
+    color: #c9a84c; font-size: 1.3rem; cursor: pointer;
+    padding: 0.3rem 0.6rem; line-height: 1;
+  }
+
+  /* Content */
   #content { flex: 1; overflow-y: auto; padding: 2rem 3rem; max-width: 900px; }
   #content h1 { font-size: 2rem; color: #f0d890; border-bottom: 2px solid #5a3e1b; padding-bottom: 0.5rem; margin-bottom: 1.2rem; }
   #content h2 { font-size: 1.4rem; color: #c9a84c; margin: 1.5rem 0 0.6rem; }
@@ -72,11 +105,32 @@ HTML = """<!DOCTYPE html>
   #content a { color: #c9a84c; }
   .welcome { text-align: center; padding: 4rem 2rem; color: #7a5c2e; }
   .welcome h2 { font-size: 2rem; color: #c9a84c; margin-bottom: 1rem; }
+
+  /* Mobile styles */
+  @media (max-width: 700px) {
+    #menu-toggle { display: block; }
+    #sidebar-close { display: block; }
+    #sidebar {
+      position: fixed; top: 0; left: 0; height: 100%;
+      transform: translateX(-100%);
+    }
+    #sidebar.open { transform: translateX(0); }
+    #content { padding: 1.2rem 1rem 1.2rem 1rem; padding-top: 3.5rem; }
+    #content table { font-size: 0.8rem; }
+    #content th, #content td { padding: 0.3rem 0.5rem; }
+  }
 </style>
 </head>
 <body>
+
+<button id="menu-toggle" aria-label="Open menu">&#9776;</button>
+<div id="sidebar-overlay"></div>
+
 <div id="sidebar">
-  <h1>⚔ Campaign Manager</h1>
+  <div id="sidebar-header">
+    <h1>⚔ Campaign Manager</h1>
+    <button id="sidebar-close" aria-label="Close menu">&times;</button>
+  </div>
   {% for section, items in sections.items() %}
     <div class="section-header">{{ section }}</div>
     {% for label, path in items %}
@@ -84,6 +138,7 @@ HTML = """<!DOCTYPE html>
     {% endfor %}
   {% endfor %}
 </div>
+
 <div id="content">
   {% if content %}
     {{ content | safe }}
@@ -95,6 +150,32 @@ HTML = """<!DOCTYPE html>
     </div>
   {% endif %}
 </div>
+
+<script>
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  const toggle  = document.getElementById('menu-toggle');
+  const close   = document.getElementById('sidebar-close');
+
+  function openSidebar() {
+    sidebar.classList.add('open');
+    overlay.classList.add('active');
+  }
+  function closeSidebar() {
+    sidebar.classList.remove('open');
+    overlay.classList.remove('active');
+  }
+
+  toggle.addEventListener('click', openSidebar);
+  close.addEventListener('click', closeSidebar);
+  overlay.addEventListener('click', closeSidebar);
+
+  sidebar.querySelectorAll('a').forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (window.innerWidth <= 700) closeSidebar();
+    });
+  });
+</script>
 </body>
 </html>"""
 
