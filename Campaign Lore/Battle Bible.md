@@ -31,7 +31,8 @@
 | **Loonboss on Squig** | **Shiny Hat Trick** | **Aspiring** | Subtract **1** from Hit rolls for attacks that target this unit. |
 | **Moonclan Shootas** | **Coward's Cunning** | **Aspiring** | This unit can **reroll Run rolls**. |
 | **Boingrot Bounderz** | **Adrenaline Junkies** | **Elite** | This unit can **Run and Charge** in the same turn. |
-| **Loonsmasha Fanatics** | **Momentum Crash** | **Elite** | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a **2+**, inflict **D3 Mortal Damage**. |
+| **Loonsmasha Fanatics** | **Momentum Crash** | **Aspiring** | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a **2+**, inflict **D3 Mortal Damage**. |
+| **Loonsmasha Fanatics** | **Spore-Crazed Momentum** | **Elite** | *Fight on Death.* Once per battle, when a model in this unit is slain in the combat phase, before the slain model is removed it can make a pile-in move and then attack. |
 
 ### **🩸 Scars (Active)**
 
@@ -136,7 +137,7 @@ Units approaching or at scar boundaries. Monitor closely.
 
 **Key character beats to wire into the battleplan:**
 - Grot Bossy hearing the World-Eater frequency stronger at this location — texture, not prophecy
-- Loonsmasha Fanatics (Elite, Momentum Crash) — their opening charge should have a named moment
+- Loonsmasha Fanatics (Aspiring: Momentum Crash, Elite: Spore-Crazed Momentum) — their opening charge should have a named moment
 - Loonboss on Squig (Cracked Ribs) — a moment where he wants to call a command and physically can't
 - Chaos Chosen (Fractured Plate, approaching Mighty) — discipline tested by a general they don't yet trust
 - New StD general — their first command decision should reveal character

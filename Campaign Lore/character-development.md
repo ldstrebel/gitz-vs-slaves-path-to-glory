@@ -66,8 +66,8 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
+| B2 | **Momentum Crash** | Aspiring | They've learned to weaponise the moment of impact itself — the chain, the body, the stopping force all arriving at once. | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a 2+, inflict D3 Mortal Damage. |
 | B4 | **Spore-Crazed Momentum** | Elite | Driven into a terminal frenzy by concentrated spores, the grots refuse to stop spinning even as their bodies fail. | *Fight on Death.* Once per battle, when a model in this unit is slain in the combat phase, before the slain model is removed from play it can make a pile-in move and then attack. |
-| B6 | **Momentum Crash** | Elite | They've learned to weaponise the moment of impact itself — the chain, the body, the stopping force all arriving at once. | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a 2+, inflict D3 Mortal Damage. |
 
 #### Scar History
 *No scars recorded.*
