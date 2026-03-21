@@ -21,10 +21,10 @@
 
 | Unit | Ability Name | Tier | Effect |
 | ----- | ----- | ----- | ----- |
-| **Grot Bossy** | **Titan's Whisper** | **Aspiring** | *(Confirm exact effect with Gitz player — granted after B6 for killing the Chaos Lord)* |
+| **Grot Bossy** | **Titan's Whisper** | **Aspiring** | Start of Hero Phase: Roll a D6. On a **1**, suffer 1 Mortal Wound. On a **2+**, gain 1 Command Point. |
 | **Loonboss on Squig** | **Shiny Hat Trick** | **Aspiring** | Subtract **1** from Hit rolls for attacks that target this unit. |
-| **Moonclan Shootas** | **Coward's Cunning** | **Aspiring** | *(Confirm exact effect with Gitz player — granted after B6)* |
-| **Boingrot Bounderz** | **Adrenaline Junkies** | **Elite** | *(Confirm exact effect with Gitz player — granted after B6)* |
+| **Moonclan Shootas** | **Coward's Cunning** | **Aspiring** | This unit can **reroll Run rolls**. |
+| **Boingrot Bounderz** | **Adrenaline Junkies** | **Elite** | This unit can **Run and Charge** in the same turn. |
 | **Loonsmasha Fanatics** | **Momentum Crash** | **Elite** | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a **2+**, inflict **D3 Mortal Damage**. |
 
 ### **🩸 Scars (Active)**
@@ -39,7 +39,7 @@
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Grot Bossy** | General | 100 | 115 GP | 12 | Aspiring | 2 | — | ✅ Active |
 | **Loonboss** | Hero | 90 | 78 GP | 8 | Aspiring | 4 | — | ✅ Active |
-| **Loonboss on Squig** | Hero | 90 | 73 GP | 5 | Aspiring | 5 | Serious | ✅ Active |
+| **Loonboss on Squig** | Hero | 90 | 73 GP | 5 | Aspiring | 0 | Serious | ✅ Active |
 | **Dankhold Troggoth** | — | 160 | 195 GP | 11 | Aspiring | 3 | — | ✅ Active |
 | **Loonsmasha Fanatics** | — | 110 | 148 GP | 15 | Elite | 4 | — | ✅ Active |
 | **Boingrot Bounderz** | — | 110 | 123 GP | 21 | Elite | 2 | — | ✅ Active |
@@ -60,7 +60,7 @@
 
 ## **🔥 Slaves to Darkness**
 
-**Treasury:** 150 GP | **Quest:** Find Artefact 1/3
+**Treasury:** 150 GP | **Quest:** Harness Manifestation (0/10 Points)
 
 ### **⭐ Rank Ups (Active)**
 
@@ -96,7 +96,7 @@
 | **Chaos Sorcerer** | Hero | 120 | 95 GP | 10 | Aspiring | 5 | Serious | ✅ Active (**DRAINED** — cannot cast, unbind, or use abilities until healed after next battle) |
 | **Chaos Lord** | Hero | 100 | 80 GP | 10 | Aspiring | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
 | **Mutalith Vortex Beast** | — | 170 | 200 GP | 13 | Aspiring | 3 | — | ✅ Active |
-| **Chaos Chosen** | — | 280 | 310 GP | 28 | Elite | 5 | Serious | ✅ Active — ⚠️ 2 renown from Mighty rank (30) |
+| **Chaos Chosen** | — | 280 | 310 GP | 28 | Elite | 0 | Serious | ✅ Active — ⚠️ 2 renown from Mighty rank (30) |
 | **Chaos Legionnaires** | — | 80 | 65 GP | 11 | Aspiring | 1 | — | ✅ Active |
 | **Chaos Warriors** | — | 190 | 160 GP | 1 | Fresh | 1 | — | ✅ Active |
 | **Realmscourge Rupture** | — | 0 | 0 GP | 1 | Fresh | 0 | — | ✅ Active |
@@ -114,10 +114,10 @@ Units approaching or at scar boundaries. Monitor closely.
 | Unit | Faction | Wounds | Current Scar | Next Threshold | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Chaos Lord** | StD | 4 | None | Serious at 5 | One destruction triggers a scar |
-| **Chaos Chosen** | StD | 5 | Serious | Severe at 9 | Currently -1 Save; 4 more wounds to next tier |
-| **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | DRAINED — cannot cast until healed |
-| **Loonboss on Squig** | Gitz | 5 | Serious | Severe at 9 | Cannot issue Commands; 4 more to next tier |
 | **Loonboss** | Gitz | 4 | None | Serious at 5 | One destruction triggers a scar |
+| **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | DRAINED — cannot cast until healed; 4 more wounds to Severe |
+| **Chaos Chosen** | StD | 0 | Serious | Severe at 9 | Healed after B6; scar permanent. 9 wounds to trigger Severe |
+| **Loonboss on Squig** | Gitz | 0 | Serious | Severe at 9 | Healed after B6; scar permanent. 9 wounds to trigger Severe |
 | **Chaos Chosen** | StD | 28 renown | Elite | Mighty at 30 | 2 renown from next rank-up choice |
 
 ---
