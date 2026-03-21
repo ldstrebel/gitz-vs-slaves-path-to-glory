@@ -98,20 +98,21 @@ HTML = """<!DOCTYPE html>
 </body>
 </html>"""
 
+VISIBLE_SECTIONS = {"Campaign Lore", "WH P2G", "Root"}
+
 def build_sections():
     order = {
         "Campaign Lore": [],
         "WH P2G": [],
-        "Agent Flows": [],
-        "AI Planning": [],
         "Root": [],
     }
     for rel in sorted(DOCS.keys()):
         parts = rel.split(os.sep)
         name = os.path.splitext(parts[-1])[0] if "." in parts[-1] else parts[-1]
-        if parts[0] in order:
-            order[parts[0]].append((name, rel))
-        else:
+        top = parts[0]
+        if top in order:
+            order[top].append((name, rel))
+        elif top not in {"Agent Flows", "AI Planning"}:
             order["Root"].append((name, rel))
     sections = {k: v for k, v in order.items() if v}
     return sections
