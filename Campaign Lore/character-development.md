@@ -19,7 +19,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Grot Bossy *(General — Anvil Hero / Grot Boss)*
-**Current Rank:** Aspiring | **Current Wounds:** 2 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 12 | **Current Wounds:** 2 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -33,7 +33,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Loonboss
-**Current Rank:** Aspiring | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 8 | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -46,7 +46,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Loonboss on Giant Cave Squig
-**Current Rank:** Aspiring | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 5 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -61,7 +61,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Loonsmasha Fanatics
-**Current Rank:** Elite | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 15 | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -75,7 +75,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Boingrot Bounderz
-**Current Rank:** Elite | **Current Wounds:** 2 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 21 | **Current Wounds:** 2 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -89,7 +89,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Moonclan Shootas
-**Current Rank:** Aspiring | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 8 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -102,7 +102,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Dankhold Troggoth
-**Current Rank:** Aspiring | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 11 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -115,7 +115,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Rockgut Troggoth
-**Current Rank:** Aspiring | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 10 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -128,7 +128,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Sporesplatta Fanatics
-**Current Rank:** Aspiring | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 7 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -141,7 +141,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Moonclan Stabbas
-**Current Rank:** Fresh | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 2 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -152,7 +152,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Squig Herd
-**Current Rank:** Fresh | **Current Wounds:** 2 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 3 | **Current Wounds:** 2 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -163,7 +163,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Snarlboss on War Chariot
-**Current Rank:** Fresh | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -174,7 +174,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Sunstealas
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 2 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -185,7 +185,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Bad Moon Loonshrine
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 2 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -196,7 +196,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Snarlboss *(new — not yet fielded)*
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -207,7 +207,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Wolfgit Retinue *(new — not yet fielded)*
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -222,7 +222,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Lord
-**Current Rank:** Aspiring | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 10 | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -236,7 +236,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Sorcerer Lord
-**Current Rank:** Aspiring | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
+**Current Rank:** Aspiring | **Renown:** 10 | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
 **Special Status:** DRAINED — cannot cast, unbind, or use abilities until healed after B7.
 
 #### Path Abilities
@@ -252,7 +252,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Mutalith Vortex Beast
-**Current Rank:** Aspiring | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -265,7 +265,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Chosen
-**Current Rank:** Elite | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 28 | **Current Wounds:** 0 | **Active Scar:** None
 **Renown Watch:** 28 — 2 from Mighty rank-up.
 
 #### Path Abilities
@@ -282,7 +282,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Legionnaires
-**Current Rank:** Aspiring | **Current Wounds:** 1 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 11 | **Current Wounds:** 1 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -295,7 +295,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Warriors
-**Current Rank:** Fresh | **Current Wounds:** 1 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 1 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -306,7 +306,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Realmscourge Rupture
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -317,7 +317,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Nexus Chaotica
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -328,7 +328,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### [New General — Anvil Hero] *(confirm with StD player before B7)*
-**Current Rank:** Fresh | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet — new unit.*
@@ -343,7 +343,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Gunnar Brand *(Retired after B6 — 2/8/2026)*
-**Final Rank:** Aspiring | **Wounds at Retirement:** 7 | **Final Active Scar:** Serious *(effect TBD — confirm with StD player)*
+**Final Rank:** Aspiring | **Final Renown:** 6 | **Wounds at Retirement:** 7 | **Final Active Scar:** Serious *(effect TBD — confirm with StD player)*
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -358,7 +358,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Singri Brand *(Retired after B6 — 2/8/2026)*
-**Final Rank:** Aspiring | **Wounds at Retirement:** 4 | **Final Active Scar:** None
+**Final Rank:** Aspiring | **Final Renown:** 5 | **Wounds at Retirement:** 4 | **Final Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -371,7 +371,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Oathsworn Kin *(Retired after B6 — 2/8/2026)*
-**Final Rank:** Aspiring | **Wounds at Retirement:** 10 | **Final Active Scar:** Severe
+**Final Rank:** Aspiring | **Final Renown:** 7 | **Wounds at Retirement:** 10 | **Final Active Scar:** Severe
 
 #### Path Abilities
 *None recorded — confirm with StD player.*
