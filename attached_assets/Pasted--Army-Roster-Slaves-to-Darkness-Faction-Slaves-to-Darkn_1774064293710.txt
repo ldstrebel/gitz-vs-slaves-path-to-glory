@@ -1,0 +1,136 @@
+# Army Roster: Slaves to Darkness
+**Faction:** Slaves to Darkness
+**Total Units:** 8
+**Total Points:** 940
+**Export Date:** 3/20/2026
+
+## Unit Performance Report
+
+### Chaos Lord
+- **Unit Type:** Chaos Lord
+- **Points:** 100
+- **Renown:** 10
+- **Wounds:** 4
+- **Total Kills:** 2
+- **Total Deaths:** 5
+- **Kill Log:**
+  - [1/17/2026 - Battle 4] Killed Grot Bossy
+  - [1/17/2026 - Battle 4] Killed Loonboss
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Dankhold Troggoth
+  - [1/23/2026 - Battle 5] Killed by Boingrot Bounderz
+  - [2/8/2026 - Skirmish] Killed by Grot Bossy
+
+---
+
+### Chaos Sorcerer Lord
+- **Unit Type:** Chaos Sorcerer Lord
+- **Points:** 120
+- **Renown:** 10
+- **Wounds:** 5
+- **Total Kills:** 0
+- **Total Deaths:** 3
+- **Kill Log:** None
+- **Death Log:**
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/17/2026 - Battle 4] Killed by Boingrot Bounderz
+  - [1/23/2026 - Battle 5] Killed by Loonsmasha Fanatics (Scourge)
+
+---
+
+### Mutalith Vortex Beast
+- **Unit Type:** Mutalith Vortex Beast
+- **Points:** 170
+- **Renown:** 13
+- **Wounds:** 3
+- **Total Kills:** 2
+- **Total Deaths:** 3
+- **Kill Log:**
+  - [1/23/2026 - Battle 5] Killed Sporesplatta Fanatics
+  - [1/23/2026 - Battle 5] Killed Loonboss
+- **Death Log:**
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Dankhold Troggoth
+  - [1/17/2026 - Battle 4] Killed by Loonboss
+
+---
+
+### Chaos Chosen
+- **Unit Type:** Chaos Chosen
+- **Points:** 280
+- **Renown:** 28
+- **Wounds:** 5
+- **Total Kills:** 10
+- **Total Deaths:** 2
+- **Kill Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Grot Bossy
+  - [1/17/2026 - Battle 4] Killed Rockgut Troggoth
+  - [1/17/2026 - Battle 4] Killed Loonsmasha Fanatics (Scourge)
+  - [1/17/2026 - Battle 4] Killed Loonboss on Giant Cave Squig
+  - [1/23/2026 - Battle 5] Killed Squig Herd
+  - [1/23/2026 - Battle 5] Killed Loonsmasha Fanatics (Scourge)
+  - [1/23/2026 - Battle 5] Killed Boingrot Bounderz
+  - [1/23/2026 - Battle 5] Killed Loonboss on Giant Cave Squig
+  - [1/23/2026 - Battle 5] Killed Rockgut Troggoth
+  - [2/8/2026 - Skirmish] Killed Snarlboss on War Chariot
+- **Death Log:**
+  - [1/23/2026 - Battle 5] Killed by Rockgut Troggoth
+  - [2/8/2026 - Skirmish] Killed by Loonsmasha Fanatics (Scourge)
+
+---
+
+### Chaos Legionnaires
+- **Unit Type:** Chaos Legionnaires
+- **Points:** 80
+- **Renown:** 11
+- **Wounds:** 1
+- **Total Kills:** 0
+- **Total Deaths:** 2
+- **Kill Log:** None
+- **Death Log:**
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/23/2026 - Battle 5] Killed by Moonclan Shoota
+
+---
+
+### Realmscourge Rupture
+- **Unit Type:** Realmscourge Rupture
+- **Points:** 0
+- **Renown:** 1
+- **Total Kills:** 0
+- **Total Deaths:** 2
+- **Kill Log:** None
+- **Death Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Dankhold Troggoth
+  - [1/23/2026 - Battle 5] Killed by Loonsmasha Fanatics (Scourge)
+
+---
+
+### Nexus Chaotica
+- **Unit Type:** Nexus Chaotica
+- **Points:** 0
+- **Renown:** 1
+- **Total Kills:** 1
+- **Total Deaths:** 0
+- **Kill Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Loonboss on Giant Cave Squig
+- **Death Log:** None
+
+---
+
+### Chaos Warriors
+- **Unit Type:** Chaos Warriors
+- **Points:** 190
+- **Renown:** 1
+- **Wounds:** 1
+- **Total Kills:** 1
+- **Total Deaths:** 1
+- **Kill Log:**
+  - [2/8/2026 - Skirmish] Killed Loonboss on Giant Cave Squig
+- **Death Log:**
+  - [2/8/2026 - Skirmish] Killed by Rockgut Troggoth
+
+---
+

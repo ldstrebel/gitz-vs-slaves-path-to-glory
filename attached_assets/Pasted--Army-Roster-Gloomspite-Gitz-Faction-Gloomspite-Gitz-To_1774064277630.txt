@@ -1,0 +1,244 @@
+# Army Roster: Gloomspite Gitz
+**Faction:** Gloomspite Gitz
+**Total Units:** 16
+**Total Points:** 1720
+**Export Date:** 3/20/2026
+
+## Unit Performance Report
+
+### Loonboss
+- **Unit Type:** Loonboss
+- **Points:** 90
+- **Renown:** 8
+- **Wounds:** 4
+- **Total Kills:** 1
+- **Total Deaths:** 5
+- **Kill Log:**
+  - [1/17/2026 - Battle 4] Killed Mutalith Vortex Beast
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Gunnar Brand
+  - [1/17/2026 - Battle 4] Killed by Chaos Lord
+  - [1/23/2026 - Battle 5] Killed by Mutalith Vortex Beast
+
+---
+
+### Loonboss on Giant Cave Squig
+- **Unit Type:** Loonboss on Giant Cave Squig
+- **Points:** 90
+- **Renown:** 5
+- **Total Kills:** 0
+- **Total Deaths:** 5
+- **Kill Log:** None
+- **Death Log:**
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Nexus Chaotica
+  - [1/17/2026 - Battle 4] Killed by Chaos Chosen
+  - [1/23/2026 - Battle 5] Killed by Chaos Chosen
+  - [2/8/2026 - Skirmish] Killed by Chaos Warriors
+
+---
+
+### Dankhold Troggoth
+- **Unit Type:** Dankhold Troggoth
+- **Points:** 160
+- **Renown:** 11
+- **Wounds:** 3
+- **Total Kills:** 3
+- **Total Deaths:** 1
+- **Kill Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Chaos Lord
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Realmscourge Rupture
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Mutalith Vortex Beast
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/17/2026 - Battle 4] Killed by Oathsworn Kin
+
+---
+
+### Loonsmasha Fanatics (Scourge)
+- **Unit Type:** Loonsmasha Fanatics (Scourge)
+- **Points:** 110
+- **Renown:** 15
+- **Wounds:** 4
+- **Total Kills:** 7
+- **Total Deaths:** 4
+- **Kill Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Gunnar Brand
+  - [1/17/2026 - Battle 4] Killed Gunnar Brand
+  - [1/23/2026 - Battle 5] Killed Chaos Sorcerer Lord
+  - [1/23/2026 - Battle 5] Killed Singri Brand
+  - [1/23/2026 - Battle 5] Killed Realmscourge Rupture
+  - [1/23/2026 - Battle 5] Killed Gunnar Brand
+  - [2/8/2026 - Skirmish] Killed Chaos Chosen
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/17/2026 - Battle 4] Killed by Chaos Chosen
+  - [1/23/2026 - Battle 5] Killed by Chaos Chosen
+
+---
+
+### Moonclan Stabbas
+- **Unit Type:** Moonclan Stabbas
+- **Points:** 110
+- **Renown:** 2
+- **Wounds:** 3
+- **Total Kills:** 0
+- **Total Deaths:** 2
+- **Kill Log:** None
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+
+---
+
+### Sporesplatta Fanatics
+- **Unit Type:** Sporesplatta Fanatics
+- **Points:** 90
+- **Renown:** 7
+- **Total Kills:** 0
+- **Total Deaths:** 4
+- **Kill Log:** None
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [12/29/2025 - Battle 2: The Trail of Glowing Spores] Killed by Combat
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Oathsworn Kin
+  - [1/23/2026 - Battle 5] Killed by Mutalith Vortex Beast
+
+---
+
+### Grot Bossy
+- **Unit Type:** Anvil Hero - Grot Boss
+- **Points:** 100
+- **Renown:** 12
+- **Wounds:** 2
+- **Total Kills:** 2
+- **Total Deaths:** 3
+- **Kill Log:**
+  - [1/17/2026 - Battle 4] Killed Oathsworn Kin
+  - [2/8/2026 - Skirmish] Killed Chaos Lord
+- **Death Log:**
+  - [12/16/2025 - BAttle 1: Feast of the Star-Fall] Killed by Unknown Foe
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed by Chaos Chosen
+  - [1/17/2026 - Battle 4] Killed by Chaos Lord
+
+---
+
+### Bad Moon Loonshrine
+- **Unit Type:** Bad Moon Loonshrine
+- **Points:** 0
+- **Renown:** 2
+- **Total Kills:** 0
+- **Total Deaths:** 0
+- **Kill Log:** None
+- **Death Log:** None
+
+---
+
+### Boingrot Bounderz
+- **Unit Type:** Boingrot Bounderz
+- **Points:** 110
+- **Renown:** 21
+- **Wounds:** 2
+- **Total Kills:** 3
+- **Total Deaths:** 1
+- **Kill Log:**
+  - [1/17/2026 - Battle 4] Killed Chaos Sorcerer Lord
+  - [1/17/2026 - Battle 4] Killed Singri Brand
+  - [1/23/2026 - Battle 5] Killed Chaos Lord
+- **Death Log:**
+  - [1/23/2026 - Battle 5] Killed by Chaos Chosen
+
+---
+
+### Squig Herd
+- **Unit Type:** Squig Herd
+- **Points:** 100
+- **Renown:** 3
+- **Wounds:** 2
+- **Total Kills:** 2
+- **Total Deaths:** 1
+- **Kill Log:**
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Singri Brand
+  - [1/9/2026 - Battle 3:  The Spinal Ridge] Killed Oathsworn Kin
+- **Death Log:**
+  - [1/23/2026 - Battle 5] Killed by Chaos Chosen
+
+---
+
+### Moonclan Shoota
+- **Unit Type:** Moonclan Shoota
+- **Points:** 110
+- **Renown:** 8
+- **Total Kills:** 2
+- **Total Deaths:** 0
+- **Kill Log:**
+  - [1/23/2026 - Battle 5] Killed Chaos Legionnaires
+  - [1/23/2026 - Battle 5] Killed Oathsworn Kin
+- **Death Log:** None
+
+---
+
+### Rockgut Troggoth
+- **Unit Type:** Rockgut Troggoth
+- **Points:** 180
+- **Renown:** 10
+- **Wounds:** 3
+- **Total Kills:** 2
+- **Total Deaths:** 2
+- **Kill Log:**
+  - [1/23/2026 - Battle 5] Killed Chaos Chosen
+  - [2/8/2026 - Skirmish] Killed Chaos Warriors
+- **Death Log:**
+  - [1/17/2026 - Battle 4] Killed by Chaos Chosen
+  - [1/23/2026 - Battle 5] Killed by Chaos Chosen
+
+---
+
+### Snarlboss on War Chariot
+- **Unit Type:** Snarlboss on War Chariot
+- **Points:** 150
+- **Renown:** 1
+- **Wounds:** 3
+- **Total Kills:** 0
+- **Total Deaths:** 1
+- **Kill Log:** None
+- **Death Log:**
+  - [2/8/2026 - Skirmish] Killed by Chaos Chosen
+
+---
+
+### Sunstealas
+- **Unit Type:** Sunstealas
+- **Points:** 130
+- **Renown:** 2
+- **Total Kills:** 0
+- **Total Deaths:** 0
+- **Kill Log:** None
+- **Death Log:** None
+
+---
+
+### Snarlboss
+- **Unit Type:** Snarlboos
+- **Points:** 120
+- **Total Kills:** 0
+- **Total Deaths:** 0
+- **Kill Log:** None
+- **Death Log:** None
+
+---
+
+### Wolfgit Retinue
+- **Unit Type:** New Unit
+- **Points:** 70
+- **Total Kills:** 0
+- **Total Deaths:** 0
+- **Kill Log:** None
+- **Death Log:** None
+
+---
+

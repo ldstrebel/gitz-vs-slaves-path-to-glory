@@ -1,0 +1,74 @@
+# Battle Report: Skirmish (2/8/2026)
+
+## Outcome
+**Result:** Major outcome.
+- **Gloomspite Gitz**: 8 Victory Points (1150 pts)
+- **Slaves to Darkness**: 2 Victory Points (940 pts)
+
+## Detailed Battle Chronicle
+- **R1:** Round 1 started. Priority: Gloomspite Gitz. Underdog: Slaves to Darkness
+- **R1:** (-3 CP) Gloomspite Gitz used redeploy, spell, shoot
+- **R1:** Round 1 started. Priority: Gloomspite Gitz. Underdog: Slaves to Darkness
+- **R1:** (-1 CP) Slaves to Darkness used Magical Intervention
+- **R1:** (-1 CP) Slaves to Darkness used Forward to Victory
+- **R1:** Gloomspite Gitz completed their turn. [Score Snapshot: Gloomspite Gitz 0 - Slaves to Darkness 0]
+- **R1:** (-1 CP) Gloomspite Gitz used Redeploy
+- **R1:** (-1 CP) Gloomspite Gitz used Magical Intervention
+- **R1:** (-1 CP) Gloomspite Gitz used Redeploy
+- **R1:** (-1 CP) Chaos Chosen used All-Out Attack
+- **R1:** (-1 CP) Sunstealas used All-Out Defence
+- **R1:** Snarlboss on War Chariot destroyed by Chaos Chosen.
+- **R1:** Loonboss on Giant Cave Squig destroyed by Chaos Warriors.
+- **R1:** Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 0 - Slaves to Darkness 0]
+- **R2:** Round 2 started. Priority: Gloomspite Gitz. Underdog: Slaves to Darkness
+- **R2:** Gloomspite Gitz completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 0]
+- **R2:** (-1 CP) Slaves to Darkness used Magical Intervention
+- **R2:** (-1 CP) Slaves to Darkness used Redeploy
+- **R2:** (-2 CP) Slaves to Darkness used Counter-Charge
+- **R2:** Chaos Warriors destroyed by Rockgut Troggoth.
+- **R2:** Chaos Chosen destroyed by Loonsmasha Fanatics (Scourge).
+- **R2:** (-1 CP) Loonsmasha Fanatics (Scourge) used All-Out Attack
+- **R2:** Chaos Lord destroyed by Grot Bossy.
+- **R2:** (-1 CP) Gloomspite Gitz used Loonmoon
+- **R2:** Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 0]
+- **R3:** (-1 CP) Loonboss used Rally
+- **R3:** (-1 CP) Grot Bossy used Magical Intervention
+- **R3:** (-1 CP) Rockgut Troggoth used Covering Fire
+- **R3:** Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 2]
+- **R4:** Round 4 started. Priority: Slaves to Darkness. Underdog: Slaves to Darkness
+
+## Narrative Recap
+Round 1: Gloomspite Gitz completed their turn. [Score Snapshot: Gloomspite Gitz 0 - Slaves to Darkness 0]
+
+Round 1: Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 0 - Slaves to Darkness 0]
+
+Round 2: Gloomspite Gitz completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 0]
+
+Round 2: Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 0]
+
+Round 3: Slaves to Darkness completed their turn. [Score Snapshot: Gloomspite Gitz 8 - Slaves to Darkness 2]
+
+## Casualty Report
+### Gloomspite Gitz
+- Loonboss: Survived
+- Loonboss on Giant Cave Squig: **DESTROYED** (Slayer: Chaos Warriors in Round 1)
+- Loonsmasha Fanatics (Scourge): Survived
+- Sporesplatta Fanatics: Survived
+- Grot Bossy: Survived
+- Bad Moon Loonshrine: Survived
+- Boingrot Bounderz: Survived
+- Moonclan Shoota: Survived
+- Rockgut Troggoth: Survived
+- Snarlboss on War Chariot: **DESTROYED** (Slayer: Chaos Chosen in Round 1)
+- Sunstealas: Survived
+
+### Slaves to Darkness
+- Chaos Lord: **DESTROYED** (Slayer: Grot Bossy in Round 2)
+- Chaos Sorcerer Lord: Survived
+- Mutalith Vortex Beast: Survived
+- Chaos Chosen: **DESTROYED** (Slayer: Loonsmasha Fanatics (Scourge) in Round 2)
+- Chaos Legionnaires: Survived
+- Realmscourge Rupture: Survived
+- Nexus Chaotica: Survived
+- Chaos Warriors: **DESTROYED** (Slayer: Rockgut Troggoth in Round 2)
+
