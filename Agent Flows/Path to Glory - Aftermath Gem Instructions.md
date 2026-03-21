@@ -914,7 +914,10 @@ Once a unit has suffered multiple battle wounds, it receives a **battle scar**. 
 | **13-17** | Critical |
 | **18+** | Unit succumbs to its injuries |
 
-The first time a unit receives a **serious**, **severe** or **critical battle scar**, you must roll on the appropriate battle scar table. A unit can only ever have 1 of each type of battle scar, even if battle wounds are healed and subsequently regained. Battle scars cannot be healed or removed.
+The first time a unit receives a **serious**, **severe** or **critical battle scar**, you must roll on the appropriate battle scar table.
+
+> **⚠️ CAMPAIGN HOUSE RULE — overrides the official text above:**
+> In this campaign, **scars are NOT permanent**. A scar is active only while a unit's wound count is at or above the triggering threshold. When wounds are healed below the threshold during the Aftermath sequence, the scar is cleared. A unit healed back to 0 wounds has no active scar. The Battle Bible Scar column always reflects the current state after healing — use that, not this rules text.
 
 Succumbing to Injuries
 

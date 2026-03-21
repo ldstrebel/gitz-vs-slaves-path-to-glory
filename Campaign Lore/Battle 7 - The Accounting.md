@@ -89,8 +89,8 @@ If the Chaos Sorcerer Lord is fielded, he remains DRAINED at the start of Battle
 **Loonsmasha Fanatics — Momentum Crash, first live use**
 If the Fanatics trigger Momentum Crash against a unit of 5+ models and succeed, note whether they survived the round after. If yes — they are learning to time their own destruction. If no — they hit perfectly and it cost them. That is their nature crystallised. Flag both outcomes for the Aftermath Gem.
 
-**Loonboss on Squig — Cracked Ribs**
-If a moment occurs during the battle where the Loonboss on Squig is within Command range of a friendly unit that fails a Battleshock, Morale, or Rally test — and the scar prevented him from issuing the Command — note the round and the unit affected. A veteran's body refusing what his instincts demanded. Flag for the Aftermath Gem.
+**Loonboss on Squig — Returning Veteran**
+The Loonboss on Squig enters B7 fully healed — no active scar. If he is destroyed this battle he will accumulate wounds and may re-trigger the Serious threshold (Cracked Ribs) again. If that happens, note the moment of destruction and what caused it. A unit that has already been broken once and comes back only to be broken the same way tells a story. Flag for the Aftermath Gem.
 
 **Chaos Chosen and the new General — the trust gap**
 If the new StD General issues a Command to the Chaos Chosen during the battle, note whether the command produced its intended result or led to the Chosen being destroyed following the order. This is the first data point in what may be a long assessment. Flag for the Aftermath Gem.

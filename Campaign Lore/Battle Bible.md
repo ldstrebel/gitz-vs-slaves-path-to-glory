@@ -35,9 +35,7 @@
 
 ### **🩸 Scars (Active)**
 
-| Unit | Scar Name | Severity | Effect |
-| ----- | ----- | ----- | ----- |
-| **Loonboss on Squig** | **Cracked Ribs** | **Serious** | This unit **cannot issue Commands** (e.g., All-out Attack, Rally). |
+*None — Loonboss on Squig was healed below the Serious threshold (5 wounds) after B6. Scar cleared.*
 
 ### **⚔️ Muster: The Army**
 
@@ -45,7 +43,7 @@
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Grot Bossy** | General | 100 | 115 GP | 12 | Aspiring | 2 | — | ✅ Active |
 | **Loonboss** | Hero | 90 | 78 GP | 8 | Aspiring | 4 | — | ✅ Active |
-| **Loonboss on Squig** | Hero | 90 | 73 GP | 5 | Aspiring | 0 | Serious | ✅ Active |
+| **Loonboss on Squig** | Hero | 90 | 73 GP | 5 | Aspiring | 0 | — | ✅ Active |
 | **Dankhold Troggoth** | — | 160 | 195 GP | 11 | Aspiring | 3 | — | ✅ Active |
 | **Loonsmasha Fanatics** | — | 110 | 148 GP | 15 | Elite | 4 | — | ✅ Active |
 | **Boingrot Bounderz** | — | 110 | 123 GP | 21 | Elite | 2 | — | ✅ Active |
@@ -86,7 +84,6 @@
 | Unit | Scar Name | Severity | Effect |
 | ----- | ----- | ----- | ----- |
 | **Chaos Sorcerer** | **Fear of Silence** | **Serious** | Subtract **1** from **Casting** and **Unbinding** rolls. |
-| **Chaos Chosen** | **Fractured Plate** | **Serious** | Subtract **1** from **Save rolls** for this unit. |
 
 ### **🩸 Scars (Retired — historical record)**
 
@@ -102,7 +99,7 @@
 | **Chaos Sorcerer** | Hero | 120 | 95 GP | 10 | Aspiring | 5 | Serious | ✅ Active (**DRAINED** — cannot cast, unbind, or use abilities until healed after next battle) |
 | **Chaos Lord** | Hero | 100 | 80 GP | 10 | Aspiring | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
 | **Mutalith Vortex Beast** | — | 170 | 200 GP | 13 | Aspiring | 3 | — | ✅ Active |
-| **Chaos Chosen** | — | 280 | 310 GP | 28 | Elite | 0 | Serious | ✅ Active — ⚠️ 2 renown from Mighty rank (30) |
+| **Chaos Chosen** | — | 280 | 310 GP | 28 | Elite | 0 | — | ✅ Active — ⚠️ 2 renown from Mighty rank (30) |
 | **Chaos Legionnaires** | — | 80 | 65 GP | 11 | Aspiring | 1 | — | ✅ Active |
 | **Chaos Warriors** | — | 190 | 160 GP | 1 | Fresh | 1 | — | ✅ Active |
 | **Realmscourge Rupture** | — | 0 | 0 GP | 1 | Fresh | 0 | — | ✅ Active |
@@ -122,8 +119,8 @@ Units approaching or at scar boundaries. Monitor closely.
 | **Chaos Lord** | StD | 4 | None | Serious at 5 | One destruction triggers a scar |
 | **Loonboss** | Gitz | 4 | None | Serious at 5 | One destruction triggers a scar |
 | **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | DRAINED — cannot cast until healed; 4 more wounds to Severe |
-| **Chaos Chosen** | StD | 0 | Serious | Severe at 9 | Healed after B6; scar permanent. 9 wounds to trigger Severe |
-| **Loonboss on Squig** | Gitz | 0 | Serious | Severe at 9 | Healed after B6; scar permanent. 9 wounds to trigger Severe |
+| **Chaos Chosen** | StD | 0 | None | Serious at 5 | Healed below threshold after B6 — scar cleared. One destruction re-triggers Serious |
+| **Loonboss on Squig** | Gitz | 0 | None | Serious at 5 | Healed below threshold after B6 — scar cleared. One destruction re-triggers Serious |
 | **Chaos Chosen** | StD | 28 renown | Elite | Mighty at 30 | 2 renown from next rank-up choice |
 
 ---
