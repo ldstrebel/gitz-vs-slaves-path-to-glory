@@ -4,11 +4,17 @@
 
 * **Last Updated:** Post-Battle 6 (2/8/2026)
 * **Campaign Phase:** **ARC 2 — The Shattered Firmament | Battle 7 Upcoming**
-* **Battle Record:** 🌑 Gitz 5W–1L | 🔥 StD 1W–5L
 * **Campaign Underdog:** Slaves to Darkness (fewer total GP earned all-time)
-* **Current Treasury:**
-  * 🌑 **Gloomspite Gitz:** 82 GP
-  * 🔥 **Slaves to Darkness:** 150 GP
+
+| | 🌑 Gloomspite Gitz | 🔥 Slaves to Darkness |
+|---|---|---|
+| **Wins** | 4 | 2 |
+| **Major Victories** | 3 (B2, B4, B6) | 1 (B1) |
+| **Minor Victories** | 1 (B3) | 1 (B5) |
+| **Losses** | 2 (B1, B5) | 4 (B2, B3, B4, B6) |
+| **GP — All-Time Earned** | 182 GP | 150 GP |
+| **GP — Current Treasury** | 82 GP | 150 GP |
+
 * **Narrative State:** The Chaos Lord fell to Grot Bossy's blade on the Shimmering Veldt. Gunnar Brand and his household have withdrawn from the warband. A new general — Anvil-forged, not yet named — has taken command of what remains. The Gitz are not celebrating. Bossy hears the dead god's frequency louder now, like a compass needle that won't settle. Something in the debris fields keeps pulling it the wrong way.
 
 ---

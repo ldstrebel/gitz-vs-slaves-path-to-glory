@@ -10,7 +10,7 @@
 | **Total GP (all-time earned)** | 182 | 150 |
 | **Current Treasury** | 82 | 150 |
 | **Campaign Underdog** | — | ✅ StD (fewer total GP) |
-| **Battle Record** | 5W–1L | 1W–5L |
+| **Battle Record** | 4W–2L | 2W–4L |
 | **Current Arc** | Arc 2: The Shattered Firmament |
 
 > **Underdog Rule:** The player with fewer *total GP earned* (not current treasury) is the underdog for Round 1 of each battle. The underdog status can switch after each subsequent round based on current battle VP totals.
