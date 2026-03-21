@@ -24,6 +24,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 #### Path Abilities
 | Battle | Ability | Tier | Effect |
 | ----- | ----- | ----- | ----- |
+| B1–3 (retro) | **Tough Git** | Aspiring | *Path of the Gitboss.* This cranky and calloused git is known to be a right tough 'un. Add 1 to this unit's Health characteristic. |
 | B5 | **Titan's Whisper** | Aspiring | Start of Hero Phase: Roll D6. On a 1, suffer 1 Mortal Wound. On a 2+, gain 1 Command Point. |
 
 #### Scar History
