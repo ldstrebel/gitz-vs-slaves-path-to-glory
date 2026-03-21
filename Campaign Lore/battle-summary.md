@@ -186,6 +186,7 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 | B4 | Hold objectives (passive), open field | Standard hold-and-score | Open field, debris site |
 | B5 | Destroy/protect 3 destructible objectives | Assassination + environmental kill tracking | Open with choke points |
 | B6 | Hold objectives (passive), ambush/skirmish | Standard hold-and-score | Open glass plains, march formation |
+| B7 | Central 2VP obj + 2 flanking 1VP objs | Asymmetric faction motivation (Gitz: stalking secondary; StD: destruction-near-general secondary) | Long-edge, broken-ground no-man's-land, open flanks |
 
 ### Location & Atmosphere Tracker
 
@@ -197,7 +198,8 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 | Internal tunnel (Spinal Column) | Dark, confined, ozone, ancient marrow smell | ✅ Used (B4) |
 | Titan's Brain-Pan (skull interior) | Psychic static, crackling nerve energy, cerebral fluid | ✅ Used (B5) |
 | Shimmering Veldt | Glass plains, refracted light, Bad Moon reflection, mid-march ambush | ✅ Used (B6) |
-| Crystalline Nexus / Spire of Reflections | Vast geometric glass spires, StD stronghold, 4 Fractal Nodes | 🔥 B7 upcoming |
+| Crystalline Nexus / Spire of Reflections | Vast geometric glass spires, StD stronghold, 4 Fractal Nodes | ⏸️ Shelved — Crystal Siege premise set aside |
+| Ossuary Run — Bile Flats | Crystallised World-Eater bile plates, bone-spurs, acid seeps, copper-and-salt air | 🔥 B7 upcoming |
 
 ### Narrative Theme Tracker
 
