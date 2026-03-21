@@ -35,7 +35,9 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 **Current Rank:** Aspiring | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
-*None recorded — confirm with Gitz player.*
+| Battle | Ability | Tier | Effect |
+| ----- | ----- | ----- | ----- |
+| B1–3 (retro) | **Among the Mob** | Aspiring | While this unit is within 3" of 2 or more friendly units, this unit has a Ward (6+). |
 
 #### Scar History
 *No scars recorded.*
@@ -115,7 +117,9 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 **Current Rank:** Aspiring | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
-*None recorded — confirm with Gitz player.*
+| Battle | Ability | Tier | Effect |
+| ----- | ----- | ----- | ----- |
+| B1–3 (retro) | **Petrified Hide** | Aspiring | Subtract 1 from the Rend characteristic of attacks that target this unit (to a minimum of 0). |
 
 #### Scar History
 *No scars recorded.*
@@ -234,7 +238,9 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 **Special Status:** DRAINED — cannot cast, unbind, or use abilities until healed after B7.
 
 #### Path Abilities
-*None recorded — confirm with StD player.*
+| Battle | Ability | Tier | Effect |
+| ----- | ----- | ----- | ----- |
+| B1–3 (retro) | **Ritual Scarring** | Aspiring | Each time this unit successfully casts a spell, heal 1 wound allocated to this unit. |
 
 #### Scar History
 | Battle | Scar | Severity | Effect | Status |

@@ -131,6 +131,7 @@ A 44"×60" battlefield oriented landscape. Both deployment strips are 12" deep o
 - [ ] Confirm new StD General name, unit type, and Anvil profile with StD player
 - [ ] Confirm Chaos Chosen renown total — at 28, they are 2 from Mighty rank-up
 - [ ] Confirm Gitz player is aware Boingrot Bounderz (Adrenaline Junkies) can now Run and Charge same turn
-- [ ] Remind both players: Loonboss on Squig cannot issue Commands (Cracked Ribs)
+- [ ] Confirm Loonboss on Squig is cleared — Cracked Ribs healed to 0 wounds, he can issue Commands normally in B7
 - [ ] Remind StD player: Chaos Sorcerer begins DRAINED — must roll 4+ each Hero Phase to recover
 - [ ] Set aside 3 tokens for Acid Seep Markers before deploying
+- [ ] **RETCON — Chaos Chosen Shield Wall (B2):** The B2 Shield Wall ability (+1 Save vs chargers) was made entirely redundant by the B4 Iron-Bound Court ability (ignore all Save modifiers, positive or negative). Discuss with StD player before battle — agree on a replacement Aspiring-tier ability that would have mattered alongside Iron-Bound Court, or accept Shield Wall as historical record. Update character-development.md once resolved.
