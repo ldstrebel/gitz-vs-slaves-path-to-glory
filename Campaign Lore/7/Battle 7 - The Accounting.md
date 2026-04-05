@@ -168,13 +168,13 @@ Roll D6 at the start of any round in which StD is the underdog.
 
 ## Pre-Battle Checklist
 
-- [x] **New StD General:** Malakor the Unyielding (Anvil Hero, 350 pts).
-- [x] **Active Quests:**
+- [ ] **New StD General:** Malakor the Unyielding (Anvil Hero, 350 pts).
+- [ ] **Active Quests:**
   - **Gitz:** Harness Manifestation (Taming the World-Eater's Frequency).
   - **StD:** Rise of a Champion (Malakor's First Battle).
-- [x] Confirm Chaos Chosen renown total — at 28, they are 2 from Mighty rank-up.
+- [ ] Confirm Chaos Chosen renown total — at 28, they are 2 from Mighty rank-up.
 - [x] Confirm Gitz player is aware Boingrot Bounderz (Adrenaline Junkies) can now Run and Charge same turn.
 - [x] Confirm Loonboss on Squig is cleared — Cracked Ribs healed to 0 wounds, he can issue Commands normally in B7.
-- [x] Remind StD player: Chaos Sorcerer begins DRAINED — must roll 4+ each Hero Phase to recover.
-- [x] Set aside 3 tokens for Acid Seep Markers before deploying.
-- [x] **RETCON — Chaos Chosen Shield Wall (B2):** Resolved.
+- [ ] Remind StD player: Chaos Sorcerer begins DRAINED — must roll 4+ each Hero Phase to recover.
+- [ ] Set aside 3 tokens for Acid Seep Markers before deploying.
+- [ ] **RETCON — Chaos Chosen Shield Wall (B2):** Resolved.
