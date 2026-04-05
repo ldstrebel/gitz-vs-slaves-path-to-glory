@@ -2,116 +2,95 @@
 
 ## **📅 Campaign Status**
 
-* **Last Updated:** Post-Battle 6 (2/8/2026)
-* **Campaign Phase:** **ARC 2 — The Shattered Firmament | Battle 7 Upcoming**
-* **Campaign Underdog:** Slaves to Darkness (fewer total GP earned all-time)
+* **Last Updated:** Post-Battle 7 (3/21/2026)
+* **Campaign Phase:** **ARC 2 — The Shattered Firmament | Battle 8 Upcoming**
+* **Campaign Underdog:** Slaves to Darkness (Calculation: StD has fewer Campaign Wins [3 vs 4])
 
 | | 🌑 Gloomspite Gitz | 🔥 Slaves to Darkness |
 |---|---|---|
-| **Wins** | 4 | 2 |
+| **Wins** | 4 | 3 |
 | **Major Victories** | 3 (B2, B4, B6) | 1 (B1) |
-| **Minor Victories** | 1 (B3) | 1 (B5) |
-| **Losses** | 2 (B1, B5) | 4 (B2, B3, B4, B6) |
-| **GP — All-Time Earned** | 182 GP | 150 GP |
-| **GP — Current Treasury** | 82 GP | 150 GP |
+| **Minor Victories** | 1 (B3) | 2 (B5, B7) |
+| **Losses** | 3 (B1, B5, B7) | 4 (B2, B3, B4, B6) |
+| **GP — All-Time Earned** | 212 GP | 195 GP |
+| **GP — Current Treasury** | 112 GP | 195 GP |
 
-* **Narrative State:** The Chaos Lord fell to Grot Bossy's blade on the Shimmering Veldt. Gunnar Brand and his household have withdrawn from the warband. A new general — Anvil-forged, not yet named — has taken command of what remains. The Gitz are not celebrating. Bossy hears the dead god's frequency louder now, like a compass needle that won't settle. Something in the debris fields keeps pulling it the wrong way.
+* **Narrative State:** Malakor (Anvil) has proven his terrifying might, securing a Minor Victory against the Gitz by decimating their center and personally executing Grot Bossy. Though Anvil led the slaughter, the Chaos Lord remains the warband's true General, creating a tense dynamic. Bossy has reformed in the Loonshrine. The World-Eater frequency is louder than ever, and Bossy is determined to embrace it and find its epicenter. Meanwhile, the Slaves to Darkness warband regards Anvil with fear and respect, but views the spontaneously reviving Mutalith Vortex Beast as a dangerous liability.
 
 ---
 
 ## **🌑 Gloomspite Gitz**
 
-**Treasury:** 82 GP | **Quest:** Wild Magic Summon (8/10 Points)
+**Treasury:** 112 GP | **Quest:** Seek Glory in Battle (Snarlboss) (0 Points) — *Harness Manifestation completed!*
 
-### **⭐ Rank Ups (Active)**
+### **⭐ New Rank Ups (Battle 8 Updates)**
 
-| Unit | Ability Name | Tier | Effect |
+*(None new from Battle 7 Aftermath)*
+
+### **🩸 New Scars (Battle 8 Updates)**
+
+| Unit | Scar Name | Severity | Effect |
 | ----- | ----- | ----- | ----- |
-| **Grot Bossy** | **Titan's Whisper** | **Aspiring** | Start of Hero Phase: Roll a D6. On a **1**, suffer 1 Mortal Wound. On a **2+**, gain 1 Command Point. |
-| **Loonboss on Squig** | **Shiny Hat Trick** | **Aspiring** | Subtract **1** from Hit rolls for attacks that target this unit. |
-| **Moonclan Shootas** | **Coward's Cunning** | **Aspiring** | This unit can **reroll Run rolls**. |
-| **Boingrot Bounderz** | **Adrenaline Junkies** | **Elite** | This unit can **Run and Charge** in the same turn. |
-| **Loonsmasha Fanatics** | **Momentum Crash** | **Aspiring** | After this unit finishes a Charge move, pick 1 enemy unit within 1". Roll a dice. On a **2+**, inflict **D3 Mortal Damage**. |
-| **Loonsmasha Fanatics** | **Spore-Crazed Momentum** | **Elite** | *Fight on Death.* Once per battle, when a model in this unit is slain in the combat phase, before the slain model is removed it can make a pile-in move and then attack. |
-
-### **🩸 Scars (Active)**
-
-*None — Loonboss on Squig was healed below the Serious threshold (5 wounds) after B6. Scar cleared.*
+| **Snarlboss on War Chariot** | **Glory-Starved** | **Serious** | Obsessed with reclaiming the spotlight. **Subtract 1 from this unit's Control score (to a minimum of 1).** |
 
 ### **⚔️ Muster: The Army**
 
 | Unit Name | Type | Points | Resale Value | Renown | Rank | Wounds | Scar | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **Grot Bossy** | General | 100 | 115 GP | 12 | Aspiring | 2 | — | ✅ Active |
+| **Grot Bossy** | General | 100 | 115 GP | 13 | Aspiring | 3 | — | ✅ Active |
 | **Loonboss** | Hero | 90 | 78 GP | 8 | Aspiring | 4 | — | ✅ Active |
-| **Loonboss on Squig** | Hero | 90 | 73 GP | 5 | Aspiring | 0 | — | ✅ Active |
-| **Dankhold Troggoth** | — | 160 | 195 GP | 11 | Aspiring | 3 | — | ✅ Active |
-| **Loonsmasha Fanatics** | — | 110 | 148 GP | 15 | Elite | 4 | — | ✅ Active |
-| **Boingrot Bounderz** | — | 110 | 123 GP | 21 | Elite | 2 | — | ✅ Active |
-| **Rockgut Troggoth** | — | 180 | 150 GP | 10 | Aspiring | 3 | — | ✅ Active |
-| **Moonclan Shootas** | — | 100 | 125 GP | 8 | Aspiring | 0 | — | ✅ Active |
-| **Moonclan Stabbas** | — | 110 | 100 GP | 2 | Fresh | 3 | — | ✅ Active |
-| **Sporesplatta Fanatics** | — | 90 | 68 GP | 7 | Aspiring | 0 | — | ✅ Active |
-| **Squig Herd** | — | 100 | 95 GP | 3 | Fresh | 2 | — | ✅ Active |
-| **Snarlboss on War Chariot** | Hero | 150 | 120 GP | 1 | Fresh | 3 | — | ✅ Active |
-| **Sunstealas** | — | 130 | 105 GP | 2 | Fresh | 0 | — | ✅ Active |
-| **Bad Moon Loonshrine** | — | 0 | 0 GP | 2 | Fresh | 0 | — | ✅ Active |
-| **Snarlboss** | Hero | 120 | — | 0 | Fresh | 0 | — | ✅ Active — new, not yet fielded |
-| **Wolfgit Retinue** | — | 70 | — | 0 | Fresh | 0 | — | ✅ Active — new, not yet fielded |
+| **Loonboss on Squig** | Hero | 90 | 73 GP | 6 | Aspiring | 3 | — | 💤 Benched |
+| **Dankhold Troggoth** | — | 160 | 195 GP | 11 | Aspiring | 3 | — | 💤 Benched |
+| **Loonsmasha Fanatics** | — | 110 | 148 GP | 16 | Elite | 0 | — | ✅ Active |
+| **Boingrot Bounderz** | — | 110 | 123 GP | 22 | Elite | 1 | — | 💤 Benched |
+| **Rockgut Troggoth** | — | 180 | 150 GP | 10 | Aspiring | 3 | — | 💤 Benched |
+| **Moonclan Shootas** | — | 100 | 125 GP | 9 | Aspiring | 3 | — | ✅ Active |
+| **Moonclan Stabbas** | — | 110 | 100 GP | 2 | Fresh | 3 | — | 💤 Benched |
+| **Sporesplatta Fanatics** | — | 90 | 68 GP | 8 | Aspiring | 3 | — | ✅ Active |
+| **Squig Herd** | — | 100 | 95 GP | 3 | Fresh | 2 | — | 💤 Benched |
+| **Snarlboss on War Chariot** | Hero | 150 | 120 GP | 3 | Fresh | 5 | Serious | ✅ Active |
+| **Sunstealas** | — | 130 | 105 GP | 3 | Fresh | 3 | — | ✅ Active |
+| **Bad Moon Loonshrine** | — | 0 | 0 GP | 4 | Fresh | 0 | — | ✅ Active |
+| **Snarlboss** | Hero | 120 | — | 1 | Fresh | 2 | — | ✅ Active |
+| **Wolfgit Retinue** | — | 70 | — | 1 | Fresh | 2 | — | ✅ Active |
+| **Snarlfang Riders** | — | 120 | — | 0 | Fresh | 0 | — | ✅ Active |
 
-> **Snarlboss** and **Wolfgit Retinue** appear in the post-B6 roster export. Not yet introduced in the novel. Incorporate into the story at first fielding.
+> **Snarlboss**, **Wolfgit Retinue**, and **Snarlfang Riders** appear in the post-B6 and post-B7 roster exports. Incorporate into the story at first fielding.
 
 ---
 
 ## **🔥 Slaves to Darkness**
 
-**Treasury:** 150 GP | **Quest:** Harness Manifestation (0/10 Points)
+**Treasury:** 195 GP | **Quest:** Search for Artefact (1 Point)
 
-### **⭐ Rank Ups (Active)**
+### **⭐ New Rank Ups (Battle 8 Updates)**
 
-| Unit | Ability Name | Tier | Effect |
-| ----- | ----- | ----- | ----- |
-| **Mutalith Vortex Beast** | **Magic-Eater** | **Aspiring** | If a spell is successfully cast within 18" (Friend or Foe), heal **1 Wound** on a 4+. |
+*(None new from Battle 7 Aftermath)*
 
-### **📜 Rank Ups (Retired — historical record)**
+### **🩸 New Scars (Battle 8 Updates)**
 
-| Unit | Ability Name | Tier | Effect | Note |
-| ----- | ----- | ----- | ----- | ----- |
-| **Gunnar Brand** | **The Numbness** | **Aspiring** | Ward 6+. | Retired after B6 (2/8/2026) |
-| **Singri Brand** | **The Ghost-Daughter** | **Aspiring** | Subtract 1 from Hit rolls for attacks that target this unit (shooting). | Retired after B6 (2/8/2026) |
-
-### **🩸 Scars (Active)**
-
-| Unit | Scar Name | Severity | Effect |
-| ----- | ----- | ----- | ----- |
-| **Chaos Sorcerer** | **Fear of Silence** | **Serious** | Subtract **1** from **Casting** and **Unbinding** rolls. |
-
-### **🩸 Scars (Retired — historical record)**
-
-| Unit | Scar Name | Severity | Note |
-| ----- | ----- | ----- | ----- |
-| **Oathsworn Kin** | **The Hollow Stare** | **Severe** | Retired after B6 (2/8/2026). Could not receive Commands. |
+*(None new from Battle 7 Aftermath)*
 
 ### **⚔️ Muster: The Army**
 
 | Unit Name | Type | Points | Resale Value | Renown | Rank | Wounds | Scar | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **[New General — Anvil Hero]** | General | TBD | — | 0 | Fresh | 0 | — | ✅ Active — **confirm name, profile, and points with StD player before B7** |
-| **Chaos Sorcerer** | Hero | 120 | 95 GP | 10 | Aspiring | 5 | Serious | ✅ Active (**DRAINED** — cannot cast, unbind, or use abilities until healed after next battle) |
-| **Chaos Lord** | Hero | 100 | 80 GP | 10 | Aspiring | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
-| **Mutalith Vortex Beast** | — | 170 | 200 GP | 13 | Aspiring | 3 | — | ✅ Active |
-| **Chaos Chosen** | — | 280 | 310 GP | 28 | Elite | 0 | — | ✅ Active — ⚠️ 2 renown from Mighty rank (30) |
+| **Malakor (Anvil)** | Hero | 350 | — | 1 | Fresh | 0 | — | ✅ Active |
+| **Chaos Sorcerer** | Hero | 120 | 95 GP | 13 | Aspiring | 5 | Serious | ✅ Active |
+| **Chaos Lord** | General | 100 | 80 GP | 13 | Aspiring | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
+| **Mutalith Vortex Beast** | — | 170 | 200 GP | 14 | Aspiring | 3 | — | ✅ Active |
+| **Chaos Chosen** | — | 280 | 310 GP | 29 | Elite | 0 | — | ✅ Active — ⚠️ 1 renown from Mighty rank (30) |
 | **Chaos Legionnaires** | — | 80 | 65 GP | 11 | Aspiring | 1 | — | ✅ Active |
 | **Chaos Warriors** | — | 190 | 160 GP | 1 | Fresh | 1 | — | ✅ Active |
-| **Realmscourge Rupture** | — | 0 | 0 GP | 1 | Fresh | 0 | — | ✅ Active |
-| **Nexus Chaotica** | — | 0 | 0 GP | 1 | Fresh | 0 | — | ✅ Active |
+| **Realmscourge Rupture** | — | 0 | 0 GP | 3 | Fresh | 0 | — | ✅ Active |
+| **Nexus Chaotica** | — | 0 | 0 GP | 3 | Fresh | 0 | — | ✅ Active |
 | **Gunnar Brand** | Hero | 200 | 165 GP | 6 | Aspiring | 7 | Serious | 🔴 **RETIRED** — withdrew with his household after B6 (2/8/2026). Voluntarily stood down to make way for the new Anvil general. His wounds had begun to tell. |
 | **Singri Brand** | — | 0 | 0 GP | 5 | Aspiring | 4 | — | 🔴 **RETIRED** — withdrew alongside Gunnar Brand after B6 (2/8/2026). The Ghost-Daughter walked out of the warband without a word. |
 | **Oathsworn Kin** | — | 0 | 0 GP | 7 | Aspiring | 10 | Severe | 🔴 **RETIRED** — the Oathsworn followed Gunnar Brand out after B6 (2/8/2026). Their oath was to the Brand household, not the warband. With Gunnar gone, the oath was spent. |
 
 ---
 
-## **⚠️ Threshold Watch — B7**
+## **⚠️ Threshold Watch — B8**
 
 Units approaching or at scar boundaries. Monitor closely.
 
@@ -119,25 +98,23 @@ Units approaching or at scar boundaries. Monitor closely.
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Chaos Lord** | StD | 4 | None | Serious at 5 | One destruction triggers a scar |
 | **Loonboss** | Gitz | 4 | None | Serious at 5 | One destruction triggers a scar |
-| **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | DRAINED — cannot cast until healed; 4 more wounds to Severe |
-| **Chaos Chosen** | StD | 0 | None | Serious at 5 | Healed below threshold after B6 — scar cleared. One destruction re-triggers Serious |
-| **Loonboss on Squig** | Gitz | 0 | None | Serious at 5 | Healed below threshold after B6 — scar cleared. One destruction re-triggers Serious |
-| **Chaos Chosen** | StD | 28 renown | Elite | Mighty at 30 | 2 renown from next rank-up choice |
+| **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | 4 more wounds to Severe |
+| **Snarlboss on War Chariot** | Gitz | 5 | Serious | Severe at 9 | 4 more wounds to Severe |
+| **Chaos Chosen** | StD | 29 renown | Elite | Mighty at 30 | 1 renown from next rank-up choice |
+| **Boingrot Bounderz** | Gitz | 22 renown | Elite | Mighty at 30 | 8 renown from next rank-up choice |
 
 ---
 
-## **🔮 Next Battle Setup: Battle 7**
+## **🔮 Next Battle Setup: Battle 8**
 
 **⚠️ Before generating this battle, the Campaign Engine must:**
-1. Read `AI Planning/arc-planning.md` for full B7 design intent and tone guidance
-2. Confirm the new StD general's name, unit type, and Anvil profile with the StD player
-3. Check `Campaign Lore/battle-summary.md` Battleplan and Location trackers — do not repeat used mechanics or locations
-
-**The Crystal Siege premise has been set aside.** The Fractal Nodes mechanic is shelved for a more appropriate future battle. B7 is a personal confrontation — smaller cast, hero-on-hero stakes, grounded in individual motivation. See arc-planning.md for full detail.
+1. Apply the new **Dual Twist Tables** mechanic and GHB 2025-26 10-point tiered scoring template.
+2. Read `Campaign Lore/arc-planning.md` for full B8 design intent and tone guidance.
+3. Check `Campaign Lore/battle-summary.md` to avoid repeating used mechanics or locations.
 
 **Key character beats to wire into the battleplan:**
-- Grot Bossy hearing the World-Eater frequency stronger at this location — texture, not prophecy
-- Loonsmasha Fanatics (Aspiring: Momentum Crash, Elite: Spore-Crazed Momentum) — their opening charge should have a named moment
-- Loonboss on Squig (Cracked Ribs) — a moment where he wants to call a command and physically can't
-- Chaos Chosen (Fractured Plate, approaching Mighty) — discipline tested by a general they don't yet trust
-- New StD general — their first command decision should reveal character
+- Grot Bossy pushing deeper towards the World-Eater frequency's epicenter.
+- The tension between the Chaos Lord (General) and the terrifyingly powerful Malakor (Anvil).
+- Malakor (Anvil) dealing with the mutated and dangerous Mutalith Vortex Beast.
+- The Chaos Chosen taking vows of absolute silence over their humiliation.
+- The Snarlboss on War Chariot desperately trying to reclaim glory.

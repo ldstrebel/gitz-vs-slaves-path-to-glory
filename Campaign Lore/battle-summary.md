@@ -3,7 +3,7 @@
 Quick reference for all battles. Enrich future battles by avoiding repeated mechanics, locations, themes, and objective designs.
 
 **Campaign:** Arc 1 — The Scavenger's Race (Battles 1–5 complete) | Arc 2 — The Shattered Firmament (Battle 6 complete)
-**Current Arc:** Arc 2, Battle 7 — The Accounting (upcoming)
+**Current Arc:** Arc 2, Battle 8 — The Epicenter's Approach (upcoming)
 
 ---
 
@@ -174,6 +174,41 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 
 ---
 
+## Battle 7 — Skirmish on the Bile Flats
+
+### Narrative Hook
+A smaller, focused confrontation on the crystallised World-Eater bile plates, bone-spurs, and acid seeps. The Slaves to Darkness, with the terrifying new champion Malakor (Anvil) taking a leading role on the frontline, face off against Grot Bossy, whose head is increasingly filled with the World-Eater's frequency.
+
+### Narrative Result
+A minor victory for the Slaves to Darkness. Malakor proved his terrifying might by decimating the Gitz center and personally executing Grot Bossy (who later reformed in the Loonshrine). The Snarlboss on War Chariot tasted fleeting glory against the Chaos Chosen, only to be obliterated by the spontaneously reviving Mutalith Vortex Beast. The catastrophic destruction convinced the Loonsmasha Fanatics of the illusion of survival, while the Boingrot Bounderz developed bizarre superstitions about Malakor being a demon. The Chaos Chosen, deeply humiliated by their initial breaking, took vows of absolute silence. Both forces left the field fundamentally changed by the trauma.
+
+**Unresolved narrative threads:** Bossy is now determined to embrace the frequency and consume its source. Malakor rules through strict terror and fears the unpredictable Mutalith. The silent Chosen march with a terrifying purpose. 
+
+### Battle Type & Design
+- **Format:** Skirmish.
+- **Objectives:** Central 2VP objective, 2 flanking 1VP objectives.
+- **Objective interaction — secondaries:** Asymmetric. Gitz stalking secondary; StD destruction-near-general secondary.
+- **Design note:** Hero-on-hero stakes emphasized character arcs over mass warfare.
+
+---
+
+## Battle 8 — The Epicenter's Approach
+
+### Narrative Hook
+Bossy realized blunt trauma isn't enough against Malakor's terrifying anvil and the Silent Elite. He summoned the Snarlboss, Wolfgit Retinue, and Snarlfang Riders to flow around the Slaves to Darkness. Meanwhile, the Chaos warband falls back to their stronghold's perimeter, their lines unbreakable but rigid. The Mutalith strains at its leash.
+
+### Narrative Result
+*(Upcoming)*
+
+### Battle Type & Design
+- **Format:** High-mobility skirmish vs stronghold defense. Corner-to-Corner deployment.
+- **Board:** The Epicenter's Approach. Littered with Crystalline Pillars (Impassable), and the air shimmers with energy that disrupts heavy and slow movements.
+- **Objectives:** 4 Overloading Cores (detonate and vanish in late game).
+- **Objective interaction — secondaries:** Asymmetric. Gitz positional isolation secondary (The Pack's Perimeter); StD stronghold/central defense secondary (The Silent Wall).
+- **Design note:** Showcasing the speed of the newly introduced wolf units vs the absolute, unshakeable immovability of the Chaos Chosen.
+
+---
+
 ## Tracker Tables
 
 ### Battleplan & Mechanic Tracker
@@ -187,6 +222,7 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 | B5 | Destroy/protect 3 destructible objectives | Assassination + environmental kill tracking | Open with choke points |
 | B6 | Hold objectives (passive), ambush/skirmish | Standard hold-and-score | Open glass plains, march formation |
 | B7 | Central 2VP obj + 2 flanking 1VP objs | Asymmetric faction motivation (Gitz: stalking secondary; StD: destruction-near-general secondary) | Long-edge, broken-ground no-man's-land, open flanks |
+| B8 | Overloading Cores (Objectives explode/shrink in Rd 3+4) | Asymmetric faction motivation (Gitz: Isolation; StD: Central Hold) | Corner-to-corner diagonal, impassable crystalline pillars |
 
 ### Location & Atmosphere Tracker
 
@@ -199,7 +235,8 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 | Titan's Brain-Pan (skull interior) | Psychic static, crackling nerve energy, cerebral fluid | ✅ Used (B5) |
 | Shimmering Veldt | Glass plains, refracted light, Bad Moon reflection, mid-march ambush | ✅ Used (B6) |
 | Crystalline Nexus / Spire of Reflections | Vast geometric glass spires, StD stronghold, 4 Fractal Nodes | ⏸️ Shelved — Crystal Siege premise set aside |
-| Ossuary Run — Bile Flats | Crystallised World-Eater bile plates, bone-spurs, acid seeps, copper-and-salt air | 🔥 B7 upcoming |
+| Ossuary Run — Bile Flats | Crystallised World-Eater bile plates, bone-spurs, acid seeps, copper-and-salt air | ✅ Used (B7) |
+| Deep Core / Epicenter's Approach | Crystalline pillars, gravitational anomalies, raw energy | ✅ Used (B8) |
 
 ### Narrative Theme Tracker
 
@@ -212,6 +249,7 @@ A 3-round surgical slaughter. Final score: **Gitz 8 — Slaves 2**. The Slaves t
 | Assassination attempt / denied apotheosis | B5 | Bossy almost a god; now hears the World-Eater |
 | Stakes are the world itself / reality war | — | Not yet played (planned for the Anchor-Fall battleplan) |
 | Apex predator / leader-kills-leader | B6 | Bossy kills the Chaos Lord; Titan's Whisper emerges |
+| Terror as leadership / brutal center-break | B7 | Malakor massacres Gitz center, Bossy dies, warband obeys through fear |
 | *(unused)* Betrayal / faction internal conflict | — | Not yet explored |
 | *(unused)* Environmental catastrophe mid-battle | — | Peristalsis (B4) touched this; not the main event |
 | *(unused)* Sacrifice as victory condition | — | B5 set up StD's martyrdom theology; not weaponised yet |

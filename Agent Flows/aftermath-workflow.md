@@ -1,81 +1,60 @@
-# Aftermath Agent Flow: The Wake of the World-Eater
+# The Campaign Engine: Master Orchestration Workflow
 
-This document outlines the step-by-step logic for the AI Agent to process battle results and update the narrative campaign. 
+This document outlines the master step-by-step logic for the AI Agent to process battle results, chronicle the narrative, update campaign mechanics, and set up the next battle.
 
 ---
 
-## 📥 Stage 1: Ingestion & Analysis
+## 📝 Stage 1: The Narrative Survey
 **Trigger:** User provides a filled-out `aftermath-template.md` and potentially a roster export.
 
-1. **Verify Integrity:**
-   - Check `aftermath-template.md` for MVP, Favor of the Gods, and Unit Status.
-   - Cross-reference with `Campaign Lore/Battle Bible.md` to ensure no units are missing.
-
-2. **Economic Calculation (GP):**
-   - **Base:** +5 GP (Participation)
-   - **Victory:** +10 GP (Minor) / +20 GP (Major)
-   - **Warlord Survival:** +5 GP if the General was not destroyed.
-   - *Update:* `Battle Bible.md` (Treasury) and `arc-planning.md`.
-
-3. **Renown & Rank Checks:**
-   - **Survivors:** Roll D3 for each.
-   - **Casualties:** +1 Renown.
-   - **Favoured Warrior:** Roll D6 for the unit nominated in the template.
-   - **Thresholds:**
-     - **Rank Up:** If renown crosses 6, 15, 30, or 50.
-     - **Scars:** If a unit was destroyed, increment Wounds. Check if they hit 5 (Serious) or 9 (Severe).
-   - *Reference:* `WH P2G/Path to Glory.md` for Path Tables and Scar effects.
+1. **Verify Integrity:** Check `aftermath-template.md` for MVP, Favor of the Gods, and Unit Status. Cross-reference with `Battle Bible.md` to ensure no units are missing.
+2. **Economic Generation:** Calculate the GP earned based on Victory/Loss and Warlord survival. Do not update files yet.
+3. **Threshold Math:** Check for Rank Ups and Scars based on survivors, casualties, and the Path tables. Do not update files yet.
+4. **Generate Survey:** Post an artifact titled `Battle [X] Aftermath Survey` asking the user for:
+   - Narrative justifications for any level-ups or new specific abilities chosen.
+   - Names and narrative descriptions for any Scars earned.
+   - Details on how the quest was completed (if applicable) and what the next quest is.
+   - 3 probing questions about the battle's impact on overarching themes and character relations.
+5. **HALT:** You must wait for the user to answer the survey before proceeding to Stage 2.
 
 ---
 
-## 📝 Stage 2: The Narrative Survey (Output 1)
-Post an artifact titled `Battle [X] Aftermath Survey` for the user. **Wait for user response before proceeding.**
+## 📖 Stage 2: The Chronicler (Story First)
+**Trigger:** User completes the Aftermath Survey.
 
-1. **Rank Up Choices:**
-   - For every unit that ranked up, provide the two ability options from their chosen Path.
-   - Ask for a short narrative hook for the choice.
-
-2. **Scar Integration:**
-   - If a unit earned a scar, ask for its name and the narrative explanation (e.g., "The Frost-Bitten Hand").
-
-3. **Quest Resolution:**
-   - Ask if the active quest was completed (based on battle events).
-   - If completed, ask for the reward choice and the next quest.
-
-4. **Arc Compass (Narrative Reflection):**
-   - Ask 3 probing questions about the battle's impact on the campaign's themes (Truth, Hope, Despair).
-   - Ask for "Thread Updates" based on character growth moments.
+1. **Update `campaign-novel.md`:** Write a rich, atmospheric, prose-driven chapter summarizing the battle. Seamlessly weave in the answers from the survey (scar origins, heroic moments, tension between characters).
+2. **Update `Previous Battles.md`:** Archive the mechanical summary of the battle (Who fought, the Underdog Twists used, MVP, specific points scored) for historical records.
 
 ---
 
-## 📖 Stage 3: The Campaign Update (Output 2)
-Once the survey is finalized, update the following files:
+## 🧮 Stage 3: The Quartermaster (Mechanics Updates)
+**Trigger:** Executed immediately after Stage 2 is complete.
 
-1. **Modify [Battle Bible.md](file:///d:/Code/gitz-vs-slaves-path-to-glory/Campaign%20Lore/Battle%20Bible.md):**
+1. **Modify `Battle Bible.md`:**
    - Update Treasury and Battle Record.
-   - Update Rank Up and Scar tables.
+   - Hardcode the new Rank Up and Scar tables.
    - Update Muster table (Points, Renown, Rank, Wounds, Scars).
    - Update Threshold Watch.
-
-2. **Modify [character-development.md](file:///d:/Code/gitz-vs-slaves-path-to-glory/Campaign%20Lore/character-development.md):**
-   - Add new entries to Path Abilities and Scar History for relevant units.
+2. **Modify `character-development.md`:**
+   - Add new entries to Path Abilities and Scar History for relevant units, using the narrative hooks provided in the survey.
    - Update current stats header for each unit.
-
-3. **Modify [arc-planning.md](file:///d:/Code/gitz-vs-slaves-path-to-glory/AI%20Planning/arc-planning.md):**
+3. **Modify `arc-planning.md`:**
    - Update "Narrative Threads" with the new character beats.
    - Mark the current battle as complete.
 
 ---
 
-## ⚔️ Stage 4: Next Battle Setup
-1. **Identify Underdog:** Check "All-Time GP Earned" in the Battle Bible.
-2. **Roll Twist:** Roll/Select a twist from the `arc-planning.md` table for the underdog.
-3. **Generate Manifesto:** Create the "Battle Lore" document for the next engagement based on the current narrative trajectory.
+## ⚔️ Stage 4: The Architect (Next Battle Setup)
+**Trigger:** Executed immediately after Stage 3 is complete.
+
+1. **Identify Campaign Underdog:** Determine the Campaign Underdog based on total Campaign Wins. If wins are tied, the player with the lowest GP is the Underdog (if they have < 90% of the leader's GP).
+2. **Generate Dual Twist Tables:** Create two distinct 1D6 Twist Tables (one for each faction) that offer escalating thematic benefits. The twist is rolled each round by the *current match underdog* (with Round 1 defaulting to the Campaign Underdog, and back-to-back double turns automatically triggering the underdog state for the opponent).
+3. **Apply GHB Template:** Create the new Battle Lore/Plan document following the GHB 2025-26 10-point tiered scoring template and varied primary objective archetypes (Escort, Sabotage, Asymmetric, Environmental).
+4. **Generate Manifesto:** Draft the narrative hooks and character growth moments based on the current campaign trajectory.
+5. **Generate Battle Map:** Automatically use the image generation tool to create a tactical top-down battle map reflecting the new layout, and save it in the new battle's folder.
 
 ---
 
 ## 🛠️ Repeatable Command Logic
-To trigger this flow, the user simply needs to say:
+To trigger this master orchestration flow, the user simply needs to say:
 > "Process aftermath for Battle [X]"
-
-The agent will then look for the template in `Agent Flows/` and begin Stage 1.

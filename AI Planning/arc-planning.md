@@ -7,20 +7,20 @@
 
 | | Gloomspite Gitz | Slaves to Darkness |
 |---|---|---|
-| **Total GP (all-time earned)** | 182 | 150 |
-| **Current Treasury** | 82 | 150 |
+| **Total GP (all-time earned)** | 212 | 195 |
+| **Current Treasury** | 112 | 195 |
 | **Campaign Underdog** | — | ✅ StD (fewer total GP) |
-| **Battle Record** | 4W–2L | 2W–4L |
+| **Battle Record** | 4W–3L | 3W–4L |
 | **Current Arc** | Arc 2: The Shattered Firmament |
-| **Active Quests** | **Gitz:** Harness Manifestation (World-Eater Frequency) | **StD:** Rise of a Champion (Malakor) |
+| **Active Quests** | **Gitz:** Seek Glory in Battle (Snarlboss) (0 Points) | **StD:** Search for Artefact (1 Point) |
 
-> **Underdog Rule:** The player with fewer *total GP earned* (not current treasury) is the underdog for Round 1 of each battle. The underdog status can switch after each subsequent round based on current battle VP totals.
+> **Underdog Rule:** The Campaign Underdog is determined primarily by **total Campaign Wins**. If wins are tied, the user with the lowest Total GP is the Underdog (providing they have < 90% of the leader's GP). The Campaign Underdog always rolls on their own dedicated Twist Table for Round 1. In Rounds 2-5, the player with the fewest VPs is the current underdog and rolls on their Twist Table. A player taking a double-turn automatically makes their opponent the underdog for that round.
 
 ---
 
 ## Arc 2 — The Shattered Firmament
 
-**Status:** Battle 7 upcoming (The Crystal Siege). Arc closes at Battle 9 or 10.
+**Status:** Battle 8 upcoming. Arc closes at Battle 9 or 10.
 
 **Arc premise:** The Gitz have broken the Chaos Lord's warband and drained the Chaos Sorcerer to near-nothing. But the Slaves to Darkness haven't collapsed — they've *retreated into their stronghold*, the Crystalline Nexus, where the geometry of reality is literally on their side. The arc asks: can a shattered warband hold a fortified position long enough to rebuild its identity, or does the unstoppable fungal tide overwhelm them before they can become something new?
 
@@ -32,68 +32,46 @@
 *Updated after each battle via Arc Compass answers.*
 
 ### Grot Bossy / Gloomspite Gitz
-- **The World-Eater's Voice:** Bossy hears fragmented, agonised whispers from the dying World-Eater. Post-B6, the Chaos Lord's death seems to have changed the *pitch* of what Bossy hears. Does he understand any of it? Does he want to?
-- **God-Batch Residue:** Still on him. Hasn't been washed off. Is it doing something?
+- **The World-Eater's Voice:** Bossy has decided to embrace the frequency. He wants to find its epicenter and consume whatever is causing the signal. He must know why the alien voice interrupted the World-Eater's transmission during B7. 
+- **Snarlboss on War Chariot:** Glory-starved. His fleeting moment of triumph crushing the Chosen was stolen by the revived Mutalith. He is now obsessed with reclaiming the spotlight and demands recognition.
+- **Boingrot Bounderz:** Bizarre superstitions. Convinced Anvil was a demon sent specifically for them, they hoard strange 'lucky' charms—rocks, teeth, and rusted scrap.
+- **Loonsmasha Fanatics (Scourge):** Nihilistic joy. The catastrophic destruction of the center battleline convinced them survival is an illusion; they greet every deployment with silent euphoria.
 - **The Titan's Whisper (B6 rank-up):** Bossy killed the most dangerous man on the field. Some of the grots are starting to look at him differently — not as just the boss, but as something chosen.
-- **Loonboss on Squig — Cracked Ribs:** Can't issue Commands. A proud unit reduced to following. How does that land?
-- **Boingrot Bounderz — Adrenaline Junkies:** They're elite now. Starting to take *risks* no sane squig rider would take.
-- **Loonsmasha Fanatics — Momentum Crash:** Their Elite path makes them devastating on contact. But post-crash they're dangerously exposed. This is a unit that lives and dies by its opening move.
 
-### Gunnar Brand / Malakor the Unyielding / Slaves to Darkness
-- **Malakor the Unyielding (New General):** An Anvil-built leader. He didn't rise to lead because he was powerful, but because someone had to carry the weight. His first test is the Bile Flats.
-- **Gunnar Brand — Default Commander:** With Malakor leading, Gunnar returns to the ranks. Physical numbness (Ward 6+) persists.
-- **Singri Brand — The Ghost-Daughter:** Has the Father's Keeper scar. Unexplored.
-- **Chaos Sorcerer Lord — Tethered & Drained:** Still alive. Still being siphoned. The warband's martyrdom theology says suffering *earns* something. How long before the Sorcerer becomes the symbol rather than the general?
-- **Chaos Chosen — Fractured Plate:** Serious scar (-1 Save). The most elite unit in the StD warband is now vulnerable. They probably don't react to that well.
-- **The Mutalith Vortex Beast — Chained:** Still with the StD. It destroyed the God-Batch vats by instinct. Now it's a liability chained to a broken warband. What does it want?
+### Chaos Lord / Slaves to Darkness
+- **Malakor (Anvil):** He secured the center and decimated the Gitz. The warband now views him with fear and respect. He is a brutal butcher, and they obey him entirely out of sheer terror of his physical might. Though not the General, he is the terrifying center of gravity.
+- **Chaos Lord (General):** Tension. Malakor is the warband's brutal butcher, commanding obedience through sheer terror, yet the Chaos Lord remains the true General. How long can this strained dynamic last?
+- **Chaos Chosen:** The Silent Shame. Deeply humiliated by being broken by a mere chariot charge, they have taken vows of absolute silence until they can wash away the stain of defeat in blood.
+- **The Mutalith Vortex Beast:** A dangerous liability. Spontaneously reviving and avenging the Chosen, it is too unpredictable. The warband feels it must be kept under far stricter physical and magical control.
+- **Chaos Sorcerer Lord — Fear of Silence:** Survived being drained/tethered. His martyrdom theology says suffering earns something. Now that he is back in action, how does his obsession with noise (to prevent sneaking) mix with the silent Chosen?
+- **Retired Heroes:** Gunnar Brand, Singri Brand, and Oathsworn Kin have withdrawn from the warband.
 
 ---
 
 ## Arc 2 Battle Themes — Ideas Only
 
-### B7 — [Name TBD — pivot away from "The Crystal Siege"] (upcoming)
+### B8 — The Epicenter's Approach (active)
 
-**Arc pivot decision:** The Crystal Siege premise (fortress siege, fate-of-the-warband stakes) was rejected as too heavy and too large-scale for where the campaign actually is. B7 should feel like Arc 1 — personal, grounded, character-driven, with a touch of the silly and the dangerous. The scale is *small warband confrontation*, not *faction war*.
-
-**Tone:** Personal vendetta. Narrower cast. Hero-on-hero stakes. Both sides have something specific they want from this fight, and neither is trying to end the world.
-
-**Vendetta layers (all three are active — let them develop through play, don't force them):**
-- Bossy vs. the new StD general — an introduction. Bossy killed the last one; what does the new one make of that?
-- Bossy vs. the Chosen — six battles and they have never broken. Bossy knows this. Something in him (or in the World-Eater frequency) keeps pulling toward them.
-- The StD warband toward Bossy — the Chaos Lord "died" to Bossy. Someone in that warband carries that. The martyrdom theology says suffering earns something. What do they think they're owed?
-
-**The World-Eater thread:** Bossy hears the frequency louder in some places than others. For B7 the location should be one where the signal is *stronger* — a crash-site remnant, a place where the World-Eater's residue has seeped into the earth. This is not dramatic or mystical. It's like tinnitus. It's like a compass needle that keeps pointing somewhere uncomfortable. The engine should use this as texture, not as a plot device.
-
-**StD general note:** The new general is an Anvil-built powerful melee hero — name and full profile to be confirmed by the StD player before the battle. Design around this archetype. Do not name them in the battleplan; leave a clear placeholder: *[New StD General — confirm with StD player]*.
-
-**Fractal Nodes / Crystal Siege elements:** Shelved. Do not carry these mechanics into B7. The Nodes mechanic (active interaction points, different per faction) is a good idea — save it for a future battle with a different framing that earns it.
+**Tone:** Progression. Both armies are driving toward the epicenter of the World-Eater frequency. Bossy is transitioning to fast-moving wolf pack tactics while the Slaves to Darkness consolidate into an immovable block around Malakor.
 
 **Character growth moments to seed:**
-- Loonsmasha Fanatics (Elite, Momentum Crash) — their devastating opening charge should have a specific moment written for it. If they destroy a unit on the charge, what does that look like for *them* specifically?
-- Loonboss on Squig (Cracked Ribs, can't issue Commands) — a proud veteran reduced to following. A moment where he *wants* to call a command and physically can't. Write this into the board conditions somehow.
-- The Chaos Chosen (Fractured Plate, -1 Save) — six battles, never broken, now visibly scarred. A moment where their discipline is tested not by the enemy but by the new general they don't yet trust.
-- New StD general — their first command decision. Whatever it is, it should reveal character, not just tactics.
+- Bossy's singular focus. He is no longer just a warband leader; he is a zealot following a signal. Embed this into his interactions with terrain or objectives.
+- The Silent Chosen. They will not speak. Use this functionally — perhaps they cannot issue or receive commands that require speech, but gain some boon of terrifying, focused intent.
+- The Snarlboss on War Chariot's desperation. He wants glory at any cost. Let him have a moment where he can over-commit for a massive potential payoff.
+- The Mutalith's unpredictability. StD player wants to keep it under strict physical/magical control. Can we create a mechanic where the StD player has to spend resources (Command Points, etc.) just to keep the Mutalith aimed at the enemy?
 
 **Counter-tropes:**
-- The Gitz shouldn't feel like winners on a victory lap. Bossy is haunted. His warband is becoming stranger. Let that texture show.
-- The StD shouldn't feel beaten. They're reorganising around something — a new identity, a new centre of gravity. The martyrdom theology is real to them now.
-- If the Gitz win: it should cost Bossy something small but specific — a unit's position, a question he now has to answer.
-- If the StD win: it's not tactical competence. It's the new general doing something unexpected that the Gitz player didn't account for.
+- The Gitz shouldn't be laughing. Their joy is nihilistic now.
+- The StD aren't noble dark warriors. They are terrified of their own comrade, Malakor. The command structure under the Chaos Lord is held together by pure fear.
 
 ---
 
-### B8 — Arc Mid-Point (post-siege consequences)
-**Theme:** *What did the siege cost?* One side won — but nothing comes free.
-
-**Character development seeds:**
-- If StD won B7: The Sorcerer survives the drain but is *changed*. The martyrdom theology crystallises into something coherent and dangerous. Gunnar Brand stops being accidental commander.
-- If Gitz won B7: The Nexus is breached but Bossy walked out of a crystal mirror and something followed him back. The Chosen are scattered but not dead. Revenge is a slow pressure.
-- Singri Brand's scar should *come alive* here — whatever "The Father's Keeper" means, B8 is where we find out.
+### B9 — Arc Mid-Point / Escalation
+**Theme:** *The Epicenter.* What is generating the signal?
 
 **Clever twist ideas:**
-- A battle fought in the aftermath of destruction — not fresh terrain but the ruins of what was
-- Stakes aren't objectives but *people* — escort/extraction scenario? Whose people?
-- The Mutalith's behaviour changes post-siege. A Magic-Eater surrounded by shattered crystal full of drained arcane energy does... what?
+- A battle fought at the very core of the World-Eater's impact. Strange gravitational effects.
+- The Mutalith finally breaks its chains and becomes a third faction / rogue element on the board.
 
 ---
 
@@ -116,20 +94,27 @@
 ## Arc Compass Response Log
 *Populated after each battle by the Aftermath Gem. Each entry records the player choices that shape the arc.*
 
-### B6 — Ambush on the Shimmering Veldt
-*(Arc Compass responses to be added after next session)*
+### B7 — Skirmish on the Bile Flats
+- **Gitz 1:** Bossy doesn't care about Malakor's voice, only that it prevented him from hearing the World-Eater's voice. He must know why.
+- **Gitz 2:** Bossy wants to embrace the World-Eater frequency, find the epicenter, and consume whatever is causing the signal.
+- **StD 1:** The warband obeys Malakor entirely out of sheer terror of his physical might. Fear and Respect.
+- **StD 2:** The spontaneously reviving Mutalith is a dangerous liability. It must be kept under stricter control.
 
 ---
 
 ## How to Use This Document
 
 **Campaign Engine (battle generation):**
-→ Read Active Threads before generating a battle
-→ Draw on Theme + Character seeds for hook and twist design
-→ Never copy these ideas directly — let them *inform* original ideas
+→ Complete **Stage 4: The Architect** of the Orchestration Flow.
+→ Read Active Threads before generating a battle.
+→ Draw on Theme + Character seeds for hook and twist design.
+→ Use the new Underdog Formula (Total Wins + 90% GP difference) to identify the Campaign Underdog.
+→ Build the **Dual Twist Tables** (one 1D6 table per faction) to ensure the current underdog always has a thematic comeback mechanic.
+→ Never copy these ideas directly — let them *inform* original ideas.
 
 **Aftermath Gem (post-battle):**
-→ Run the Arc Compass survey after each battle
-→ Record player responses in the Arc Compass Response Log
-→ Update Active Threads based on rank-ups, scars, and player choices
-→ Move "upcoming" battle themes forward; add a new stub for the next battle
+→ Complete **Stage 1 (Survey) -> Stage 2 (Story) -> Stage 3 (Quartermaster)** of the Orchestration Flow.
+→ Run the Arc Compass survey after each battle (Stage 1).
+→ Record player responses in the Arc Compass Response Log.
+→ Update Active Threads based on rank-ups, scars, and player choices.
+→ Move "upcoming" battle themes forward; add a new stub for the next battle.

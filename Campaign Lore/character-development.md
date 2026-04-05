@@ -19,7 +19,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Grot Bossy *(General — Anvil Hero / Grot Boss)*
-**Current Rank:** Aspiring | **Renown:** 12 | **Current Wounds:** 2 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -46,7 +46,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Loonboss on Giant Cave Squig
-**Current Rank:** Aspiring | **Renown:** 5 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 6 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -61,7 +61,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Loonsmasha Fanatics
-**Current Rank:** Elite | **Renown:** 15 | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 16 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -70,12 +70,14 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 | B4 | **Spore-Crazed Momentum** | Elite | Driven into a terminal frenzy by concentrated spores, the grots refuse to stop spinning even as their bodies fail. | *Fight on Death.* Once per battle, when a model in this unit is slain in the combat phase, before the slain model is removed from play it can make a pile-in move and then attack. |
 
 #### Scar History
-*No scars recorded.*
+| Battle | Scar | Severity | Effect | Status |
+| ----- | ----- | ----- | ----- | ----- |
+| B7 | **Nihilistic Joy** | Serious | *(Psychological: The catastrophic destruction convinced them that survival is an illusion; they greet every deployment with silent euphoria).* | ✅ CLEARED — healed below threshold after B7 |
 
 ---
 
 ### Boingrot Bounderz
-**Current Rank:** Elite | **Renown:** 21 | **Current Wounds:** 2 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 22 | **Current Wounds:** 1 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -84,12 +86,14 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 | B5 | **Adrenaline Junkies** | Elite | Six battles in, the squigs no longer need encouragement — stopping is the hard part. | This unit can Run and Charge in the same turn. |
 
 #### Scar History
-*No scars recorded.*
+| Battle | Scar | Severity | Effect | Status |
+| ----- | ----- | ----- | ----- | ----- |
+| B7 | **Bizarre Superstitions** | Serious | *(Psychological: Convinced Anvil was a demon sent for them, they hoard strange 'lucky' charms).* | ✅ CLEARED — healed below threshold after B7 |
 
 ---
 
 ### Moonclan Shootas
-**Current Rank:** Aspiring | **Renown:** 8 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 9 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -128,7 +132,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Sporesplatta Fanatics
-**Current Rank:** Aspiring | **Renown:** 7 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 8 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -163,18 +167,20 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Snarlboss on War Chariot
-**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 3 | **Current Wounds:** 5 | **Active Scar:** Glory-Starved (Serious)
 
 #### Path Abilities
 *None yet.*
 
 #### Scar History
-*No scars recorded.*
+| Battle | Scar | Severity | Effect | Status |
+| ----- | ----- | ----- | ----- | ----- |
+| B7 | **Glory-Starved** | Serious | *(Psychological: His fleeting moment of triumph was stolen; he is obsessed with reclaiming the spotlight).* **Subtract 1 from this unit's Control score (to a minimum of 1).** | 🔴 ACTIVE |
 
 ---
 
 ### Sunstealas
-**Current Rank:** Fresh | **Renown:** 2 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 3 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -185,7 +191,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Bad Moon Loonshrine
-**Current Rank:** Fresh | **Renown:** 2 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 4 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -195,8 +201,8 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 
 ---
 
-### Snarlboss *(new — not yet fielded)*
-**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
+### Snarlboss
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 2 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -206,8 +212,8 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 
 ---
 
-### Wolfgit Retinue *(new — not yet fielded)*
-**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
+### Wolfgit Retinue
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 2 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -222,7 +228,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Lord
-**Current Rank:** Aspiring | **Renown:** 10 | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -236,8 +242,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Sorcerer Lord
-**Current Rank:** Aspiring | **Renown:** 10 | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
-**Special Status:** DRAINED — cannot cast, unbind, or use abilities until healed after B7.
+**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -252,7 +257,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Mutalith Vortex Beast
-**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Aspiring | **Renown:** 14 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
@@ -265,19 +270,20 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Chosen
-**Current Rank:** Elite | **Renown:** 28 | **Current Wounds:** 0 | **Active Scar:** None
-**Renown Watch:** 28 — 2 from Mighty rank-up.
+**Current Rank:** Elite | **Renown:** 29 | **Current Wounds:** 0 | **Active Scar:** None
+**Renown Watch:** 29 — 1 from Mighty rank-up.
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
-| B2 | **Shield Wall** | Aspiring | ⚠️ *RETCON FLAGGED — needs review before B7.* Six warriors who have trained together since before the campaign began, moving as a single defensive organism. | Add +1 to Save rolls vs attacks from units that finished a Charge move. |
+| B2 | **Beck and Call** | Aspiring | Aggressive fighters | Add +1 to Hit Rolls for the rest of the phase |
 | B4 | **The Iron-Bound Court** | Elite | Trusting no one but themselves, they lock formation and ignore everything the battlefield tries to tell them. | *Path of the Elite.* This unit ignores modifiers (positive or negative) to its Save characteristic. |
 
 #### Scar History
 | Battle | Scar | Severity | Effect | Status |
 | ----- | ----- | ----- | ----- | ----- |
 | B6 | **Fractured Plate** | Serious | Subtract 1 from Save rolls. | ✅ CLEARED — healed below threshold after B6 |
+| B7 | **The Silent Shame** | Serious | *(Psychological: Deeply humiliated by being broken, they have taken vows of absolute silence).* | ✅ CLEARED — healed below threshold after B7 |
 
 ---
 
@@ -306,7 +312,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Realmscourge Rupture
-**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 3 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -317,7 +323,7 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Nexus Chaotica
-**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 0 | **Active Scar:** None
+**Current Rank:** Fresh | **Renown:** 3 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet.*
@@ -327,8 +333,8 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 
 ---
 
-### [New General — Anvil Hero] *(confirm with StD player before B7)*
-**Current Rank:** Fresh | **Renown:** 0 | **Current Wounds:** 0 | **Active Scar:** None
+### Malakor (Anvil)
+**Current Rank:** Fresh | **Renown:** 1 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 *None yet — new unit.*

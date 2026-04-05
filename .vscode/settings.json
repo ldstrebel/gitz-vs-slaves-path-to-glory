@@ -1,0 +1,7 @@
+{
+    "notebook.defaultFormatter": null,
+    "workbench.editorAssociations": {
+        "*.md": "markdownForHumans.editor",
+        "*.markdown": "markdownForHumans.editor"
+    }
+}
