@@ -76,10 +76,10 @@
 | Unit Name | Type | Points | Resale Value | Renown | Rank | Wounds | Scar | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Malakor (Anvil)** | Hero | 350 | — | 1 | Fresh | 0 | — | ✅ Active |
-| **Chaos Sorcerer** | Hero | 120 | 95 GP | 13 | Aspiring | 5 | Serious | ✅ Active |
-| **Chaos Lord** | General | 100 | 80 GP | 13 | Aspiring | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
-| **Mutalith Vortex Beast** | — | 170 | 200 GP | 14 | Aspiring | 3 | — | ✅ Active |
-| **Chaos Chosen** | — | 280 | 310 GP | 29 | Elite | 0 | — | ✅ Active — ⚠️ 1 renown from Mighty rank (30) |
+| **Chaos Sorcerer** | Hero | 120 | 95 GP | 16 | Elite | 5 | Serious | ✅ Active |
+| **Chaos Lord** | General | 100 | 80 GP | 15 | Elite | 4 | — | ✅ Active — ⚠️ 1 destruction away from Serious scar threshold |
+| **Mutalith Vortex Beast** | — | 170 | 200 GP | 16 | Elite | 3 | — | ✅ Active |
+| **Chaos Chosen** | — | 280 | 310 GP | 32 | Mighty | 0 | — | ✅ Active |
 | **Chaos Legionnaires** | — | 80 | 65 GP | 11 | Aspiring | 1 | — | ✅ Active |
 | **Chaos Warriors** | — | 190 | 160 GP | 1 | Fresh | 1 | — | ✅ Active |
 | **Realmscourge Rupture** | — | 0 | 0 GP | 3 | Fresh | 0 | — | ✅ Active |
@@ -100,7 +100,6 @@ Units approaching or at scar boundaries. Monitor closely.
 | **Loonboss** | Gitz | 4 | None | Serious at 5 | One destruction triggers a scar |
 | **Chaos Sorcerer** | StD | 5 | Serious | Severe at 9 | 4 more wounds to Severe |
 | **Snarlboss on War Chariot** | Gitz | 5 | Serious | Severe at 9 | 4 more wounds to Severe |
-| **Chaos Chosen** | StD | 29 renown | Elite | Mighty at 30 | 1 renown from next rank-up choice |
 | **Boingrot Bounderz** | Gitz | 22 renown | Elite | Mighty at 30 | 8 renown from next rank-up choice |
 
 ---

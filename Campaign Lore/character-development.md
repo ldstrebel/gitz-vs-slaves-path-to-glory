@@ -228,13 +228,14 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Lord
-**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 4 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 15 | **Current Wounds:** 4 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
 | Setup | *(Starting path ability — StD player to confirm)* | — | — | — |
 | B3 | **The Survivor** | Aspiring | The Lord has learned that glory is useless to the dead. He wears concealed plating. | *Path of the Champion.* Grit — Roll a dice each time you allocate a wound or mortal wound to this unit. On a 6, it is negated. *(Ward 6+)* |
+| B7 | **Tyrant's Iron Will** | Elite | He demands absolute perfection, inspiring those around him to fight harder out of pure terror. | *Path of the Elite.* Once per battle, at the start of the combat phase, pick 1 friendly SLAVES TO DARKNESS unit wholly within 12". That unit gains the Strike-First effect for that phase. |
 
 #### Scar History
 *No scars recorded.*
@@ -242,12 +243,13 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Sorcerer Lord
-**Current Rank:** Aspiring | **Renown:** 13 | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
+**Current Rank:** Elite | **Renown:** 16 | **Current Wounds:** 5 | **Active Scar:** Fear of Silence (Serious)
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
 | B1–3 (retro) | **Ritual Scarring** | Aspiring | The act of casting has become the only thing that quiets the silence inside his skull — he draws on that hunger. | Each time this unit successfully casts a spell, heal 1 wound allocated to this unit. |
+| B7 | **Master of the Cosmic Weave** | Elite | He begins to effortlessly manipulate the ambient magic without backlash. | *Path of the Elite.* Add 1 to all casting, unbinding, and banishing rolls for this unit. |
 
 #### Scar History
 | Battle | Scar | Severity | Effect | Status |
@@ -257,12 +259,13 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Mutalith Vortex Beast
-**Current Rank:** Aspiring | **Renown:** 14 | **Current Wounds:** 3 | **Active Scar:** None
+**Current Rank:** Elite | **Renown:** 16 | **Current Wounds:** 3 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
 | B5 | **Magic-Eater** | Aspiring | The creature has attuned itself to the ambient sorcerous discharge of the battlefield, drinking what others waste. | If a spell is successfully cast within 18" (Friend or Foe), heal 1 Wound on a 4+. |
+| B7 | **Unstable Warp-Core** | Elite | The vortex on its back pulses wildly, dealing collateral damage just by proximity. | *Path of the Elite.* At the end of the combat phase, roll a D6 for each enemy unit within 3" of this unit; on a 3+, that unit suffers D3 mortal damage. |
 
 #### Scar History
 *No scars recorded.*
@@ -270,14 +273,14 @@ Scars in this campaign are **not permanent** — they clear if wounds are healed
 ---
 
 ### Chaos Chosen
-**Current Rank:** Elite | **Renown:** 29 | **Current Wounds:** 0 | **Active Scar:** None
-**Renown Watch:** 29 — 1 from Mighty rank-up.
+**Current Rank:** Mighty | **Renown:** 32 | **Current Wounds:** 0 | **Active Scar:** None
 
 #### Path Abilities
 | Battle | Ability | Tier | Narrative | Effect |
 | ----- | ----- | ----- | ----- | ----- |
 | B2 | **Beck and Call** | Aspiring | Aggressive fighters | Add +1 to Hit Rolls for the rest of the phase |
 | B4 | **The Iron-Bound Court** | Elite | Trusting no one but themselves, they lock formation and ignore everything the battlefield tries to tell them. | *Path of the Elite.* This unit ignores modifiers (positive or negative) to its Save characteristic. |
+| B7 | **Unstoppable Momentum** | Mighty | They ignore movement modifiers and nothing can stagger their advance. | *Path of the Mighty.* Add 1 to this unit's Charge rolls. Additionally, once per battle, this unit can attempt a charge even if it ran in the same turn. |
 
 #### Scar History
 | Battle | Scar | Severity | Effect | Status |

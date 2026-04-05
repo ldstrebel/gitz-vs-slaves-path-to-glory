@@ -94,8 +94,8 @@ The Chaos Chosen are a rock breaking the tide. If a friendly Slaves to Darkness 
 ### 1. The Wolf-Pack Flank (Gitz Mechanics)
 All Snarlfang units (Snarlboss on War Chariot, Snarlboss, Wolfgit Retinue, Snarlfang Riders) may make a pre-game move of 6" after deployment but before the first battle round begins. 
 
-### 2. The Unshakeable Elite (StD Mechanics)
-The Chaos Chosen are locked in their Vow of Silence and singular purpose. **They ignore the first negative modifier applied to them (of any kind: hit, wound, save, rend) each phase.** Their minds are completely closed to anything but the slaughter in front of them.
+### 2. The Mighty Vanguard (StD Mechanics)
+The Chaos Chosen have achieved the coveted Mighty rank. As a reminder of their new **Unstoppable Momentum** path ability: **Add 1 to this unit's Charge rolls. Additionally, once per battle, this unit can attempt a charge even if it ran in the same turn.** They are no longer bogged down by past shame; they are a terrifying spearhead.
 
 ### 3. The Unpredictable Liability (Environmental/Mutalith Mechanics)
 The Mutalith Vortex Beast is reacting terribly to the Epicenter. At the start of the StD Hero Phase, the StD player must spend **1 Command Point** to keep it leashed. If they choose not to or cannot, roll a D6. On a 1-3, the Mutalith immediately suffers D3 Mortal Wounds and its Move characteristic is halved for that turn. On a 4-6, it gains +1 to Hit and Wound rolls this turn, driven into a frenzy, but must automatically declare a charge against the nearest unit (friend or foe) if possible.
@@ -110,8 +110,8 @@ At the start of the combat phase, roll a D6. On a 1, a gravitational anomaly tri
 **Snarlboss & Wolf units — The First Hunt**
 If the Snarlfang Riders or Wolfgit Retinue steal an objective from StD control using their speed, note the outcome. Bossy has realized brute force failed against Malakor; he needs verification that speed works. Flag for the Aftermath Gem.
 
-**Chaos Chosen — 1 Renown to Mighty**
-The Chosen enter B8 sitting on 29 Renown, needing exactly 1 to reach Mighty rank. They have taken the Vow of Silence to atone for their humiliation against the Chariot. If they manage to destroy the Snarlboss on War Chariot in this battle, they break their vow with a triumphant roar and immediately cross the threshold to Mighty (with narrative flourish). Flag for the Aftermath Gem.
+**Chaos Chosen — The Mighty Vanguard**
+The Chosen enter B8 newly elevated to Mighty rank, their charge practically undefendable with their new momentum. Track their success breaking the Gitz backline. Flag for the Aftermath Gem.
 
 **Malakor vs Chaos Lord — Tense Command**
 The tension between them grows. Record which hero issues the most Command Abilities this battle. The one leading the warband practically vs. officially will determine the narrative shift in the overarching structure.
@@ -133,6 +133,6 @@ The tension between them grows. Record which hero issues the most Command Abilit
 ## Pre-Battle Checklist
 
 - [x] Confirm the inclusion of Snarlboss, Wolfgit Retinue, and Snarlfang Riders into the Gitz roster.
-- [x] Verify Chaos Chosen are tracking their vows of silence and are 1 Renown away from Mighty.
+- [ ] Verify Chaos Chosen's new Unstoppable Momentum rule is added to their roster block.
 - [x] Remind StD player of the CP tax for the Mutalith Vortex Beast each round.
 - [x] Determine final deployment zones in Corner-to-Corner format.

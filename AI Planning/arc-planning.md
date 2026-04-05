@@ -40,10 +40,10 @@
 
 ### Chaos Lord / Slaves to Darkness
 - **Malakor (Anvil):** He secured the center and decimated the Gitz. The warband now views him with fear and respect. He is a brutal butcher, and they obey him entirely out of sheer terror of his physical might. Though not the General, he is the terrifying center of gravity.
-- **Chaos Lord (General):** Tension. Malakor is the warband's brutal butcher, commanding obedience through sheer terror, yet the Chaos Lord remains the true General. How long can this strained dynamic last?
-- **Chaos Chosen:** The Silent Shame. Deeply humiliated by being broken by a mere chariot charge, they have taken vows of absolute silence until they can wash away the stain of defeat in blood.
-- **The Mutalith Vortex Beast:** A dangerous liability. Spontaneously reviving and avenging the Chosen, it is too unpredictable. The warband feels it must be kept under far stricter physical and magical control.
-- **Chaos Sorcerer Lord — Fear of Silence:** Survived being drained/tethered. His martyrdom theology says suffering earns something. Now that he is back in action, how does his obsession with noise (to prevent sneaking) mix with the silent Chosen?
+- **Chaos Lord (General) — Tyrant's Iron Will:** Tension. In response to Malakor's rising threat, he has become even more demanding, inspiring those around him to fight harder out of pure terror to maintain his slipping grasp on command.
+- **Chaos Chosen — The Mighty Vanguard:** Elevated to Mighty rank with *Unstoppable Momentum*. No longer bogged down by their past humiliation against the chariot, they have become a terrifying, unstoppable spearhead.
+- **The Mutalith Vortex Beast — Unstable Warp-Core:** A dangerous liability. Spontaneously reviving and now pulsing with an unstable warp-core that deals collateral damage by proximity. The warband feels it must be kept under far stricter physical and magical control.
+- **Chaos Sorcerer Lord — Master of the Cosmic Weave:** Surviving the trauma of being drained, he has now tapped into the ambient magic of the crash sites effortlessly. His obsession with noise (to prevent sneaking) mixes with this new, terrifying magical fluency.
 - **Retired Heroes:** Gunnar Brand, Singri Brand, and Oathsworn Kin have withdrawn from the warband.
 
 ---

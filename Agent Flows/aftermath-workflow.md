@@ -11,8 +11,8 @@ This document outlines the master step-by-step logic for the AI Agent to process
 2. **Economic Generation:** Calculate the GP earned based on Victory/Loss and Warlord survival. Do not update files yet.
 3. **Threshold Math:** Check for Rank Ups and Scars based on survivors, casualties, and the Path tables. Do not update files yet.
 4. **Generate Survey:** Post an artifact titled `Battle [X] Aftermath Survey` asking the user for:
-   - Narrative justifications for any level-ups or new specific abilities chosen.
-   - Names and narrative descriptions for any Scars earned.
+   - **Narrative Hooks for Rank Ups/Scars:** You MUST provide 2-3 specific, deeply narrative options for the user to choose from. These options must reflect overarching plot developments, interpersonal warband dynamics, psychological trauma, or evolving ideologies based on recent campaign events. DO NOT provide generic "RPG skill tree" combat flavor (e.g. "hits harder", "tougher armor"). Furthermore, **DO NOT include a "Write-in" option.** You must boldly author the options yourself so they actively shape the storytelling and arc planning. 
+   - **Hidden Mechanics:** Keep the mechanical impact (the AoS 4.0 rule) of these choices HIDDEN from the survey to preserve the narrative-first choice. You will generate and hardcode the balanced game rules for them only *after* the user selects their narrative path.
    - Details on how the quest was completed (if applicable) and what the next quest is.
    - 3 probing questions about the battle's impact on overarching themes and character relations.
 5. **HALT:** You must wait for the user to answer the survey before proceeding to Stage 2.
