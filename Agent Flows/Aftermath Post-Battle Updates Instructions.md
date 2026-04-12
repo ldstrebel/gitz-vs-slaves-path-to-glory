@@ -122,17 +122,14 @@ Remind the user: *"Once you've filled out the survey, pass it to the Aftermath Q
 
 ---
 
-## **Survey Gem Verification Checklist**
-
-*Before sending the survey, internally answer these questions:*
-
-1. **Data Integrity:** Did I accept the Export Wounds/Renown as final truth? (No added math.)
-2. **Economic Check:** Did I calculate GP correctly using the battle-specific rewards file?
-3. **Narrative Purity:** Did I read `character-development.md` AND `arc-planning.md` before writing rank-up options?
-4. **Phase 1 Check:** Do any rank-up options use mechanical vocabulary or describe only a physical change? (If yes, rewrite.)
-5. **Specificity Check:** Are rank-up options grounded in a named battle moment or unit history? Or are they generic?
-6. **Arc Compass:** Did I write 2–3 questions grounded in this battle's specific events?
-7. **Healing Table:** Does it list EVERY unit with wounds, with hero categories (Normal/Risky)?
+- [ ] **Load Context:** Have I read `character-development.md` and `arc-planning.md` for *every* unit reaching a threshold?
+- [ ] **Identify Anchor:** Have I pinpointed a specific named moment or relationship from the battle report for each choice?
+- [ ] **Generate Divergence:** Have I created two options representing *opposite* emotional/psychological reactions?  
+- [ ] **Sanitize Mechanics:** Have I verified that ZERO game vocabulary (Hit, Wound, Ward, etc.) or physical-only descriptions are in the options? Do any rank-up options use mechanical vocabulary or describe only a physical change? (If yes, rewrite.)
+- [ ] **Calculate GP:** Have I validated Glory Points against battle-specific rewards?
+- [ ] **Arc Compass:** Have I generated 2-3 questions grounded in the characters's specific events?
+- [ ] **Healing Table:** Have I listed every wounded unit with correct Hero categories (Normal/Risky)?
+- [ ] **Economic Integrity:** Did I remember to update the **Glory Points (GP)** in the Treasury header?
 
 ---
 

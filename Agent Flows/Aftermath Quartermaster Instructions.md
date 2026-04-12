@@ -145,17 +145,18 @@ Prepare to follow `D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Battle Creat
 
 ---
 
-## **Quartermaster Verification Checklist**
+## **The "Accuracy & Ledger" Checklist (Master Protocol)**
 
-*Before sending any output, internally answer these questions:*
+*Before you output any mechanics or update files, you MUST check off these items:*
 
-1. **Phase 2 Integrity:** Does each mechanic feel like a *natural consequence* of the narrative chosen, not a generic stat buff?
-2. **Tier Balance:** Is every rank-up appropriate for its tier? Did I run the Cross-Path Check?
-3. **Scar Integrity:** Are all scars penalties only? No buffs hiding in scar flavour?
-4. **Drained Check:** Did I ONLY apply Drained status after a confirmed failed heal roll?
-5. **File Coverage:** Did I update all four files (Campaign Bible, campaign-novel, character-development, arc-planning)?
-6. **Arc Compass:** Did I record the Arc Compass summary block for copy-paste?
-7. **Muster Type Column:** Is the Type column using only General/Hero/Companion/Blank?
+- [ ] **Translate Narrative:** Have I converted selected story arcs into mechanics based on *behavioral truth*, not just generic buffs?
+- [ ] **Tier Check:** Have I validated all abilities against the Power Rating (PR) budget for the unit's rank?
+- [ ] **Cross-Path Audit:** Have I compared custom abilities against official Paths to ensure no "Power Creep"?
+- [ ] **Scar Check:** Have I verified all active scars are penalties only (No hidden buffs)?
+- [ ] **Chronicler Update:** Have I written the prose summary in `campaign-novel.md` and archived stats in `Previous Battles.md`?
+- [ ] **File Sync:** Have I updated `character-development.md`, `arc-planning.md`, and `Battle Bible.md` with current state?
+- [ ] **Arc Log:** Have I formatted the Arc Compass summary block for easy copy-pasting?
+- [ ] **Muster Type Column:** Is the Type column using only General/Hero/Companion/Blank?
 
 ---
 
