@@ -1,69 +1,109 @@
 # The Campaign Engine: Master Orchestration Workflow
 
-This document outlines the master step-by-step logic for the AI Agent to process battle results, chronicle the narrative, update campaign mechanics, and set up the next battle.
+This document is the master step-by-step logic for the AI Agent to process battle results, chronicle the narrative, update campaign mechanics, and set up the next battle. It references two specialist gems that handle the detail work.
 
 ---
 
-## Stage 0: Gather Aftermath information
+## Stage 0: Gather Aftermath Information
 
-**Trigger**: User says a battle has been completed and they are ready to receive the Narrative Survey. They will provide a full summary of the battle following the structure in D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\aftermath-userprovidedinfo-template.md
-
-## 📝 Stage 1: The Narrative Survey
-
-Follow detailed steps in D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Path to Glory - Aftermath Gem Instructions.md
-
-### **Step 1: Ingest & Analyze (STRICT DATA INTEGRITY)**
-
-### **Step 2: The Narrative Survey (Output 1**
-
-### **Step 3: PAUSE for User Input**
-
-### **Step 4: The Campaign Bible (Output 2)**
-
-### **Step 5: The Next Battle Hook**
-
-- **Goal:** Set the stage for the next engagement.
-
-## **Verification Checklist (The "Pre-Flight" Check)**
-
-*Before sending ANY response, you must internally answer these 7 questions:*
-
-1. **Data Integrity:** Did I accept the Export Wounds/Renown as the final truth? (No math).
-2. **Economic Check:** Did I remember to update the **Glory Points (GP)** in the Treasury header?
-3. **Balance & Logic:** Are Rank Ups appropriate for the Tier? Are Scars penalties?
-4. **Status Check:** Did I ONLY apply "Drained" if there was a confirmed failed heal roll?
-5. **Completeness Check:** Did I remember to include **Step 5: The Next Battle Setup**?
-6. **Arc Compass Check:** Did I include 2–3 Arc Compass questions grounded in *this battle's events*? Did I summarise the responses at the end of the Campaign Bible for copy-paste into `arc-planning.md`?
+**Trigger:** User says a battle has been completed and they are ready to receive the Narrative Survey. They will provide a full summary of the battle following the structure in:  
+`D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\aftermath-userprovidedinfo-template.md`
 
 ---
 
-## 📖 Stage 2: The Chronicler (Story First)
+## 📝 Stage 1: The Narrative Survey (Survey Gem)
 
-**Trigger:** User completes the Aftermath Survey.
+**Gem:** `D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Aftermath Post-Battle Updates Instructions.md`
 
-1. **Update `campaign-novel.md`:** Write a rich, atmospheric, prose-driven chapter summarizing the battle. Seamlessly weave in the answers from the survey (scar origins, heroic moments, tension between characters).
-2. **Update `Previous Battles.md`:** Archive the mechanical summary of the battle (Who fought, the Underdog Twists used, MVP, specific points scored) for historical records.
+Follow the full instructions in that file. Summary:
+
+### Step 1: Ingest & Analyze
+
+- Accept Export values as final truth. No added math.
+- Calculate GP using the battle's specific reward file.
+- Identify rank-up thresholds and scar check thresholds.
+
+### Step 2: The Narrative Survey (Output 1)
+
+- Generate the survey per army: Field Report, Treasury, Rank Ups, Healing Table.
+- **Rank Up options are generated using the Phase 1 Mandate (Story-First):**
+  - Completely ignore mechanics during option generation.
+  - Read `character-development.md` and `arc-planning.md` before writing a single option.
+  - Options must describe a *character changing*, not a *fighter improving*.
+  - Run the 5-point Internal Check before writing.
+- Generate Arc Compass questions (2–3) grounded in this battle's specific events.
+
+### Step 3: PAUSE for User Input
+
+- Output the survey. Wait for the player to fill it out.
+- **Do not generate mechanics or update any files until the survey is returned.**
 
 ---
 
-## 🧮 Stage 3: The Quartermaster (Mechanics Updates)
+## 🧮 Stage 2: Mechanics & File Updates (Quartermaster Gem)
 
-**Trigger:** Executed immediately after Stage 2 is complete.
+**Trigger:** User returns the completed survey with rank-up choices, healing decisions, and Arc Compass answers filled in.
 
-1. **Modify `Battle Bible.md`:**
-  - Update Treasury and Battle Record.
-  - Update the new Rank Up and Scar tables.
-  - Update Muster table (Points, Renown, Rank, Wounds, Scars).
-  - Update Threshold Watch.
-2. **Modify `character-development.md`:**
-  - Add new entries to Path Abilities and Scar History for relevant units, using the narrative hooks provided in the survey.
-  - Update current stats header for each unit.
-3. **Modify `arc-planning.md`:**
-  - Update "Narrative Threads" with the new character beats.
-  - Mark the current battle as complete.
+**Gem:** `D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Aftermath Quartermaster Instructions.md`
+
+Follow the full instructions in that file. Summary:
+
+### Step 4: The Campaign Bible (Output 2)
+
+- **Phase 2 Mechanic Translation:** Convert each selected narrative choice into a tier-appropriate, narratively faithful game mechanic. Work from story inward — behavioral truth → physical consequence → legal mechanic.
+- Generate the full Campaign Bible per army: Rank Ups Table, Scars Table, Muster Table.
+
+### Step 5: The Next Battle Hook
+
+- Narrative context, environmental special rules, arc seeds from Arc Compass responses.
+
+### Stage 3: The Chronicler (Story Archive)
+
+- Update `campaign-novel.md` with atmospheric prose chapter.
+- Update `Previous Battles.md` with mechanical summary archive.
+
+### Stage 4: The Quartermaster (File Updates)
+
+- Update `Campaign Bible.md` (Treasury, Battle Record, Rank Ups, Scars, Muster, Threshold Watch).
+- Update `character-development.md` (Path Abilities, Scar History, Current Stats per unit).
+- Update `arc-planning.md` (Narrative Threads, Arc Compass Response Log, battle marked complete).
+
+### Stage 5: Recap and Hook next battle
+
+- Inform user of which files were updated and why. This step is CRITICAL for establishing trust that all the required updates were completed. Consider this verification checklist
+  - All Units updates across all sources: battle bible, character-development (renown, paths, wounds, scars, key narrative development)
+  - Army summary stats updated: battle bible, character-development, campaign notes (GP, treasury, W/L)
+  - Lore updated for users (battle-summary, campaign-novel)
+  - Planning updated for AI (arc-planning, campaign Notes)
+
+## 🧮 Stage 3: Create Next Battle
+
+- Wait for signal to proceed to next battle creation phase from user. 
+- Follow `D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Battle Creation Instructions.md`
+- Output: a fully generated battle plan
 
 ---
 
-## ⚔️ Stage 4: The Architect (Next Battle Setup)
+## **Verification Checklist (Pre-Flight)**
 
-**Trigger:** Executed immediately after Stage 3 is complete. follow D:\Code\gitz-vs-slaves-path-to-glory\Agent Flows\Path to Glory - Battle Gem Instructions (Clean).md for instructions
+*Internal check before any response:*
+
+### Survey Gem Checks (Stage 1):
+
+1. **Data Integrity:** Export values accepted as final truth?
+2. **GP:** Calculated correctly using battle-specific file?
+3. **Narrative Purity:** `character-development.md` and `arc-planning.md` read before writing rank-up options?
+4. **Phase 1:** Do options use mechanical vocabulary or describe only physical changes? (If yes — rewrite.)
+5. **Specificity:** Are options grounded in named battle moments or unit history?
+6. **Arc Compass:** 2–3 questions grounded in this battle's specific events?
+7. **Healing Table:** Every wounded unit listed with hero categories?
+
+### Quartermaster Gem Checks (Stage 2):
+
+1. **Phase 2 Integrity:** Does each mechanic feel like a natural consequence of the narrative?
+2. **Tier Balance:** Appropriate for tier? Cross-Path Check run?
+3. **Scar Integrity:** Scars are penalties only?
+4. **Drained Check:** Only applied after confirmed failed heal roll?
+5. **File Coverage:** All four files updated?
+6. **Arc Compass Log:** Summary block formatted for copy-paste?
+7. **Muster Type:** Type column using only General/Hero/Companion/Blank?
