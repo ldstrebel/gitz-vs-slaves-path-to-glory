@@ -7,10 +7,10 @@
 
 | | Gloomspite Gitz | Slaves to Darkness |
 |---|---|---|
-| **Total GP (all-time earned)** | 212 | 195 |
-| **Current Treasury** | 112 | 195 |
-| **Campaign Underdog** | — | ✅ StD (fewer total GP) |
-| **Battle Record** | 4W–3L | 3W–4L |
+| **Total GP (all-time earned)** | 242 | 115 |
+| **Current Treasury** | 162 | 75 |
+| **Campaign Underdog** | — | ✅ StD (fewer wins) |
+| **Battle Record** | 5W–3L (B9 result TBD) | 3W–5L (B9 result TBD) |
 | **Current Arc** | Arc 2: The Shattered Firmament |
 | **Active Quests** | **Gitz:** Seek Glory in Battle (Snarlboss) (0 Points) | **StD:** Search for Artefact (1 Point) |
 
@@ -20,7 +20,7 @@
 
 ## Arc 2 — The Shattered Firmament
 
-**Status:** Battle 8 upcoming. Arc closes at Battle 9 or 10.
+**Status:** Battle 8 complete. Battle 9 upcoming. Arc closes at Battle 10.
 
 **Arc premise:** The Gitz have broken the Chaos Lord's warband and drained the Chaos Sorcerer to near-nothing. But the Slaves to Darkness haven't collapsed — they've *retreated into their stronghold*, the Crystalline Nexus, where the geometry of reality is literally on their side. The arc asks: can a shattered warband hold a fortified position long enough to rebuild its identity, or does the unstoppable fungal tide overwhelm them before they can become something new?
 
@@ -29,49 +29,30 @@
 ---
 
 ## Active Narrative Threads
-*Updated after each battle via Arc Compass answers.*
-
-### Grot Bossy / Gloomspite Gitz
-- **The World-Eater's Voice:** Bossy has decided to embrace the frequency. He wants to find its epicenter and consume whatever is causing the signal. He must know why the alien voice interrupted the World-Eater's transmission during B7. 
-- **Snarlboss on War Chariot:** Glory-starved. His fleeting moment of triumph crushing the Chosen was stolen by the revived Mutalith. He is now obsessed with reclaiming the spotlight and demands recognition.
-- **Boingrot Bounderz:** Bizarre superstitions. Convinced Anvil was a demon sent specifically for them, they hoard strange 'lucky' charms—rocks, teeth, and rusted scrap.
-- **Loonsmasha Fanatics (Scourge):** Nihilistic joy. The catastrophic destruction of the center battleline convinced them survival is an illusion; they greet every deployment with silent euphoria.
-- **The Titan's Whisper (B6 rank-up):** Bossy killed the most dangerous man on the field. Some of the grots are starting to look at him differently — not as just the boss, but as something chosen.
+*Updated after each battle via Arc Comp- **Grot Bossy — Prophet of the Frequency (B8 Elite Talent):** 6+ Ward in 12" aura. He hears the world-eater's pulse.
+- **Grot Bossy's Chariot — Reckless Driver (B8 Aspiring Talent):** Re-roll all Charge rolls.
+- **Sunstealas / Wolf Pack — Harrying Predators (B8 Aspiring Talent):** No mortal damage when retreating.
+- **Loonsmasha Fanatics — Ghost-Spinners (Scar):** -1 Control. nihilistic euphoria.
 
 ### Chaos Lord / Slaves to Darkness
-- **Malakor (Anvil):** He secured the center and decimated the Gitz. The warband now views him with fear and respect. He is a brutal butcher, and they obey him entirely out of sheer terror of his physical might. Though not the General, he is the terrifying center of gravity.
-- **Chaos Lord (General) — Tyrant's Iron Will:** Tension. In response to Malakor's rising threat, he has become even more demanding, inspiring those around him to fight harder out of pure terror to maintain his slipping grasp on command.
-- **Chaos Chosen — The Mighty Vanguard:** Elevated to Mighty rank with *Unstoppable Momentum*. No longer bogged down by their past humiliation against the chariot, they have become a terrifying, unstoppable spearhead.
-- **The Mutalith Vortex Beast — Unstable Warp-Core:** A dangerous liability. Spontaneously reviving and now pulsing with an unstable warp-core that deals collateral damage by proximity. The warband feels it must be kept under far stricter physical and magical control.
-- **Chaos Sorcerer Lord — Master of the Cosmic Weave:** Surviving the trauma of being drained, he has now tapped into the ambient magic of the crash sites effortlessly. His obsession with noise (to prevent sneaking) mixes with this new, terrifying magical fluency.
-- **Retired Heroes:** Gunnar Brand, Singri Brand, and Oathsworn Kin have withdrawn from the warband.
+- **Chaos Lord (General) — Steel Ring (B8 Elite Talent):** All-out Defense can be shared with unit within 12". Currently **DRAINED** (Survivor of the Catapult).
+- **Chaos Chosen — Martyr's Vow (B8 Mighty Talent):** Strike-First while on an Objective controlled by the enemy. Shattered Pride (No Rally).
+- **Chaos Sorcerer Lord — Master of Stillness (B8 Elite Talent):** CV7 Spell to halve enemy Move. Fear of Silence cleared.
+- **Malakor (Anvil):** Reeling from the Gitz ambush; holding the inner core.
+- **Retired Heroes:** Gunnar Brand, Singri Brand, and Oathsworn Kin.
+ withdrawn from the warband.
 
 ---
 
 ## Arc 2 Battle Themes — Ideas Only
 
-### B8 — The Epicenter's Approach (active)
+### B8 — The Epicenter's Approach (complete)
+Both armies drove toward the epicenter. Bossy's focus shifted from loot to the frequency itself. StD consolidated around Malakor but were overwhelmed by Fanatic nihilism and the Doom Diver's arrival.
 
-**Tone:** Progression. Both armies are driving toward the epicenter of the World-Eater frequency. Bossy is transitioning to fast-moving wolf pack tactics while the Slaves to Darkness consolidate into an immovable block around Malakor.
-
-**Character growth moments to seed:**
-- Bossy's singular focus. He is no longer just a warband leader; he is a zealot following a signal. Embed this into his interactions with terrain or objectives.
-- The Silent Chosen. They will not speak. Use this functionally — perhaps they cannot issue or receive commands that require speech, but gain some boon of terrifying, focused intent.
-- The Snarlboss on War Chariot's desperation. He wants glory at any cost. Let him have a moment where he can over-commit for a massive potential payoff.
-- The Mutalith's unpredictability. StD player wants to keep it under strict physical/magical control. Can we create a mechanic where the StD player has to spend resources (Command Points, etc.) just to keep the Mutalith aimed at the enemy?
-
-**Counter-tropes:**
-- The Gitz shouldn't be laughing. Their joy is nihilistic now.
-- The StD aren't noble dark warriors. They are terrified of their own comrade, Malakor. The command structure under the Chaos Lord is held together by pure fear.
-
----
-
-### B9 — Arc Mid-Point / Escalation
-**Theme:** *The Epicenter.* What is generating the signal?
-
-**Clever twist ideas:**
-- A battle fought at the very core of the World-Eater's impact. Strange gravitational effects.
-- The Mutalith finally breaks its chains and becomes a third faction / rogue element on the board.
+### B9 — The Shattered Plains (upcoming)
+**Theme:** *The Convergence.* Reach the nexus of the deep core where the crystals pulse with the World-Eater's final thoughts.
+**Status:** Chaos Lord is DRAINED; Chosen seek martyrdom. Gitz climb upward into the light.
+**Key mechanical focus:** Gravitational/tectonic fluctuations and crystal resonance.
 
 ---
 
@@ -94,11 +75,11 @@
 ## Arc Compass Response Log
 *Populated after each battle by the Aftermath Gem. Each entry records the player choices that shape the arc.*
 
-### B7 — Skirmish on the Bile Flats
-- **Gitz 1:** Bossy doesn't care about Malakor's voice, only that it prevented him from hearing the World-Eater's voice. He must know why.
-- **Gitz 2:** Bossy wants to embrace the World-Eater frequency, find the epicenter, and consume whatever is causing the signal.
-- **StD 1:** The warband obeys Malakor entirely out of sheer terror of his physical might. Fear and Respect.
-- **StD 2:** The spontaneously reviving Mutalith is a dangerous liability. It must be kept under stricter control.
+### B8 — The Epicenter's Approach (Epicenter Deep Core)
+- **Gitz 1:** Grot Bossy embraces the Prophet of the Frequency role.
+- **Gitz 2:** Snarlboss becomes a Showy Demagogue to reclaim lost glory.
+- **StD 1:** Chaos Lord descends into paranoia, seeing spies everywhere.
+- **StD 2:** Chaos Chosen take a Martyr's Vow to reclaim their honor.
 
 ---
 

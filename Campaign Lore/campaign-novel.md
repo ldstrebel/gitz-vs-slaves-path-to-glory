@@ -270,7 +270,39 @@ In his head, like a lodestone, like a bruise, like the Bad Moon's pull clarified
 
 ---
 
-*The chronicle continues. The Battle of the Crystal Siege is coming.*
+---
+
+## Chapter Seven: Skirmish on the Bile Flats
+
+The Bile Flats were never meant for the living. A vast expanse of crystallised World-Eater bile, bone-spurs, and acid seeps, the air here was a thick soup of copper-and-salt that corroded metal and morale in equal measure. But for Grot Bossy, the frequency was loudest here, vibrating through the yellowed plates of the ground like a summons.
+
+He was not alone.
+
+The Slaves to Darkness had found a new center of gravity. Malakor, the Anvil, had arrived—a creature of such concentrated martial terror that even the Chaos Lord stepped aside to let him lead. Malakor did not speak; he simply occupied space with the weight of a dying sun.
+
+The battle was a sharp, clinical lesson in the price of overextension. Grot Bossy, his head now a chaotic symphony of the World-Eater's dying thoughts, pushed his center forward with a manic confidence that bordered on the suicidal. Malakor met them.
+
+It wasn't a fight; it was a harvest. Malakor walked through the Gitz line like he was reaping wheat, his strikes so precise and powerful that "Bossy's Mob" was reduced to red mist and splinters in minutes. He found Grot Bossy in the thick of the acid-seeps and executed him with a casual lethality that left the watching grots in a state of stunned, silent horror.
+
+The Snarlboss on War Chariot, desperate for a glory that kept slipping away, drove his rattling engine at the Chaos Chosen. For a heartbeat, he felt like a hero. Then the Mutalith Vortex Beast, spontaneously reviving and drunk on the ambient bile-fumes, collided with him. Chariot and Snarlboss were obliterated, scattered across the bone-spurs like junk.
+
+The Slaves to Darkness won a Minor Victory, securing the flats. But the victory felt... wrong. The Chaos Chosen, deeply humiliated by their earlier fractures, took vows of absolute silence, their iron-clad resolve hardening into something cold and unreachable. The Loonsmasha Fanatics, watching their general die and their center dissolve, were struck by a sudden, terrifying clarity: survival was an illusion. They didn't mourn; they laughed, a hollow, nihilistic sound that the wind carried across the flats long after the retreat.
+
+Bossy reformed in the Loonshrine, but the man—if he had ever been a man—who woke up was different. The frequency wasn't just a noise anymore. It was a rhythm.
+
+---
+
+## Chapter Eight: The Epicenter's Approach
+
+"Bossy's not Bossy no more," the Loonboss whispered, watching his general from the safety of a damp pillar.
+
+He was right. Grot Bossy no longer issued commands in the guttural tongue of the Moonclan. He chanted. Alien, rhythmic, undulating syllables that matched the thrumming in the ground. The Gitz moved first and everywhere—wolves and riders surged to seize the center and flanks before the Slaves could set their line. By round two, the score was level, the Slaves to Darkness locking down the center and pressing the Gitz into a series of frantic, failing charges.
+
+The turning point came not from a hero's blade, but from the sky. The Doom Diver Catapult, positioned on a distant ridge, launched a screeching grot whose trajectory defied probability. The "one-in-a-million" direct hit caught the Chaos Lord just as he was rising from a pile of bodies, caving in his chest and scattering his retinue. With their leader broken and DRAINED, the Chaos line fractured.
+
+The Gitz didn't just attack; they flowed. They surged past the broken threshold, looting the transition spires and breaching the inner sanctum. Bossy survived a near-atomization to lead his mob into the Core Depth, while Malakor (Anvil) remains broken by the initial fungal tide.
+
+A Major Victory for the Gloomspite Gitz. The threshold was breached. The Epicenter was within reach.
 
 ---
 
@@ -280,24 +312,21 @@ In his head, like a lodestone, like a bruise, like the Bad Moon's pull clarified
 
 | Character | Role | Status | Notable |
 |-----------|------|--------|---------|
-| **Grot Bossy** | General | Active (Aspiring) | Died twice. Hears the World-Eater's thoughts (*Titan's Whisper* — roll D6 Hero Phase: 1 = 1 MW, 2+ = 1 CP). Killed the Chaos Lord personally in B6. |
-| **The Loonboss** | Hero | Active (Aspiring) | Killed the Mutalith in B4. Was killed by the Chaos Lord immediately after. |
-| **Loonboss on Giant Cave Squig** | Hero | Active (Aspiring, Cracked Ribs) | Sole B1 survivor. Bounced into a Chaos Warrior shield wall in B6 — broken ribs, cannot issue Commands. *Shiny Hat Trick:* -1 to Hit vs this unit. |
-| **The Dankhold Troggoth** | Monster | Active (Aspiring) | Eating cosmic debris since B2. Visibly mutating. Colour shifts. |
-| **Loonsmasha Fanatics** | Elite | Active (Elite, Momentum Crash) | Killed the Chaos Sorcerer Lord (B5). Avenged the Snarlboss, fractured the Chosen's plate (B6). *Momentum Crash:* D3 MW on 2+ after a Charge. |
-| **Boingrot Bounderz / "Snapper"** | Cavalry | Active (Elite) | The assassination bounce in B4 killed the Sorcerer Lord and Singri Brand. 8 good bounces scored. |
+| **Grot Bossy** | General | Active (Elite) | Hears the World-Eater's thoughts (*Prophet of the Frequency*). Ward 6+ aura. |
+| **The Loonboss** | Hero | Active (Aspiring) | Pragmatic survivor. |
+| **Grot Bossy's Chariot** | Hero | Active (Aspiring) | *Reckless Driver:* Re-roll charges. |
+| **Wolf Pack** | Vanguard | Active (Aspiring) | *Harrying Predators:* No MW on retreat. (Sunstealas/Snarlboss/Retinue) |
+| **Loonsmasha Fanatics** | Elite | Active (Elite) | *Ghost-Spinners:* -1 Control scar. |
 
 ### Slaves to Darkness
 
 | Character | Role | Status | Notable |
 |-----------|------|--------|---------|
-| **The Chaos Sorcerer Lord** | General | DRAINED (Serious scar) | Died in B2 (Bossy), B4 (Bounderz), B5 (Fanatics). Martyrdom theology. Tethered to Nexus Chaotica. -1 casting. |
-| **The Chaos Lord** | Hero | **DEAD** — killed by Grot Bossy in B6 | Killed Bossy twice (B1, B4), killed the Loonboss (B4). Was the warband's last credible fighting centre. Bossy found the gap. |
-| **The Chaos Chosen** | Elite | Active (Serious, Fractured Plate) | Never broke. The constant of every battle. -1 Save from armour damage. |
-| **Gunnar Brand** | Hero | Active (Aspiring, Serious) | Survived a Fanatic ball to the chest (B4). *The Numbness:* Ward (6+) — numbness is how he knows he's still alive. Holds the rear now the Chaos Lord is gone. |
-| **Singri Brand** | Warrior | Active (Aspiring) | Gunnar's sister. Faster, less patient. Killed by Bounderz in B4, returned. *The Ghost-Daughter:* -1 to Hit on Shooting attacks. "The Father's Keeper" — what this means, she hasn't said. |
-| **The Oathsworn Kin** | Guard | Active (Severe, Hollow Stare) | Bound to protect the Brands. Cannot receive Commands. Something in the Brain-Pan broke something in them. |
-| **Mutalith Vortex Beast** | Monster | Active (Aspiring, Magic-Eater) | Was killed by the Loonboss in B4. Returned. The Magic-Eater ability is behavioral now — it destroyed the God-Batch vats by instinct. |
+| **The Chaos Lord** | General | Active (Elite) | *Steel Ring:* Broken Ribs (-1 Atk). **DRAINED** (Catapult survivor). |
+| **The Chaos Sorcerer Lord** | Hero | Active (Elite) | *Master of Stillness:* Halves enemy Move. |
+| **The Chaos Chosen** | Elite | Active (Mighty) | *Martyr's Vow:* Strike-First on Objectives. *Shattered Pride:* No Rally. |
+| **Malakor (Anvil)** | Hero | Active (Fresh) | Broken by the fungal tide; holding the sanctum. |
+| **Mutalith Vortex Beast** | Monster | Active (Elite) | Sensing the raw energy of the Epicenter. |
 
 ### Locations Visited
 
@@ -308,5 +337,6 @@ In his head, like a lodestone, like a bruise, like the Bad Moon's pull clarified
 | **The Spinal Ridge** | Massive World-Eater spine erupted from the ground. Half-consecrated Chaos altar remaining. | ✅ B3 |
 | **The Crater's Edge** | Open debris field where the Chaos force was caught mid-extraction. | ✅ B4 |
 | **The Titan's Brain-Pan** | Domed skull interior. God-Batch spilled here. Reality slightly unreliable now. | ✅ B5 |
-| **The Crystalline Nexus / Spire of Reflections** | Natural glass spire formation. Current StD stronghold. 4 Fractal Nodes tethering the Sorcerer Lord. | 🔥 B7 upcoming |
-| **The Shimmering Veldt** | The dissolving outer reality. Arc 2 battleground. | ⏳ B6 pending |
+| **The Shimmering Veldt** | The dissolving outer reality. Arc 2 battleground. | ✅ B6 |
+| **The Bile Flats** | Crystallised bile, acid seeps, high corrosion. | ✅ B7 |
+| **Deep Core / Epicenter's Approach** | Crystalline pillars, gravitational anomalies, logic-deleting spores. | ✅ B8 |

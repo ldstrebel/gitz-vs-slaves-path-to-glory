@@ -2,17 +2,17 @@
 
 Quick reference for all battles. Enrich future battles by avoiding repeated mechanics, locations, themes, and objective designs.
 
-**Campaign:** Arc 1 — The Scavenger's Race (Battles 1–5 complete) | Arc 2 — The Shattered Firmament (Battle 6 complete)
-**Current Arc:** Arc 2, Battle 8 — The Epicenter's Approach (upcoming)
+**Campaign:** Arc 1 — The Scavenger's Race (Battles 1–5 complete) | Arc 2 — The Shattered Firmament (Battles 6–8 complete)
+**Current Arc:** Transitioning to Arc 2 Finale / Arc 3 (Upcoming)
 
 ---
 
 ## Campaign Score
 
-| Faction | Campaign Points | GP (post-B5) |
+| Faction | Campaign Points | GP (post-B8) |
 |---------|----------------|--------------|
-| 🌑 Gloomspite Gitz | 5 (2 Major, 1+ Minor wins) | 142 GP |
-| 🔥 Slaves to Darkness | 3 (1 Major, 1 Minor win) | 130 GP |
+| 🌑 Gloomspite Gitz | 8 (3 Major, 1 Minor win) | 162 GP |
+| 🔥 Slaves to Darkness | 4 (1 Major, 2 Minor wins) | 65 GP |
 
 > **B4 explicit result not recorded.** Inferred as a Gitz victory from the B5 opening: *"The Hollow Heart has been conquered."*
 
@@ -187,7 +187,7 @@ A minor victory for the Slaves to Darkness. Malakor proved his terrifying might 
 ### Battle Type & Design
 - **Format:** Skirmish.
 - **Objectives:** Central 2VP objective, 2 flanking 1VP objectives.
-- **Objective interaction — secondaries:** Asymmetric. Gitz stalking secondary; StD destruction-near-general secondary.
+- **Objective interaction — secondaries:** Asymmetric. Gitz: Stalking secondary; StD: destruction-near-general secondary.
 - **Design note:** Hero-on-hero stakes emphasized character arcs over mass warfare.
 
 ---
@@ -195,17 +195,37 @@ A minor victory for the Slaves to Darkness. Malakor proved his terrifying might 
 ## Battle 8 — The Epicenter's Approach
 
 ### Narrative Hook
-Bossy realized blunt trauma isn't enough against Malakor's terrifying anvil and the Silent Elite. He summoned the Snarlboss, Wolfgit Retinue, and Snarlfang Riders to flow around the Slaves to Darkness. Meanwhile, the Chaos warband falls back to their stronghold's perimeter, their lines unbreakable but rigid. The Mutalith strains at its leash.
+Both armies drove toward the epicenter. Bossy's focus shifted from loot to the frequency itself. The Slaves to Darkness consolidated around the threshold of their inner sanctum, with Malakor taking a leading role on the frontline to break the fungal tide. Corner-to-corner deployment forced a high-mobility clash across crystalline pillars.
+
+### Narrative Result
+**Major Victory: Gloomspite Gitz (30-18)**. The battle began in violence and momentum. The Gitz moved first and everywhere—wolves and riders surged to seize the center and flanks before the Slaves could set their line. The Slaves reclaimed the center but let the wolves overextend into corners, leveling the score by round two. The Slaves locked down the center, pressing the Gitz into a series of frantic, failing charges.
+
+The turning point came when the Doom Diver Catapult landed a "one-in-a-million" direct hit on the Chaos Lord as he was rising from a pile of bodies, killing him instantly and scattering his retinue. With their leader dead, the Chaos line fractured. The Gitz surged past, looting the threshold and breaching the inner sanctum. Malakor (Anvil) remains broken, and the Chaos Lord is DRAINED. Bossy survived a near-atomization to lead his mob into the Core Depth.
+
+**Unresolved narrative threads:** How does the Chaos force respond to the Lord's "Drained" state? The Chosen have taken a Martyr's Vow—what is their ultimate target? Bossy is now the Prophet; what happens when he reaches the source?
+
+### Battle Type & Design
+- **Format:** High-mobility skirmish vs stronghold defense. Corner-to-Corner deployment.
+- **Board:** The Epicenter's Approach. Crystalline Pillars (Impassable), disruptions to heavy/slow movement.
+- **Objectives:** 4 Overloading Cores (Objectives exploded/shrank in later rounds).
+- **Objective interaction — secondaries:** Asymmetric. Gitz: *The Pack's Perimeter* (Isolation); StD: *The Silent Wall* (Central Hold).
+- **Design note:** Showcasing Wolf speed vs Chosen immovability. The "Frequency" effect was represented by the Overloading Cores' volatile nature.
+
+---
+
+## Battle 9 — The Shattered Plains
+
+### Narrative Hook
+The path to the epicenter leads across a network of shifting stone bridges and crystalline spires hanging over bottomless chasms. Swarms of crystalline insects rise from the depths. The Gitz seek to loot the spires for raw essence before the Chaos Sorcerer can bind the magic to protective runes. This is a survival race through a collapsing geometry.
 
 ### Narrative Result
 *(Upcoming)*
 
 ### Battle Type & Design
-- **Format:** High-mobility skirmish vs stronghold defense. Corner-to-Corner deployment.
-- **Board:** The Epicenter's Approach. Littered with Crystalline Pillars (Impassable), and the air shimmers with energy that disrupts heavy and slow movements.
-- **Objectives:** 4 Overloading Cores (detonate and vanish in late game).
-- **Objective interaction — secondaries:** Asymmetric. Gitz positional isolation secondary (The Pack's Perimeter); StD stronghold/central defense secondary (The Silent Wall).
-- **Design note:** Showcasing the speed of the newly introduced wolf units vs the absolute, unshakeable immovability of the Chaos Chosen.
+- **Format:** Race / Objective Control (Loot vs Bind).
+- **Board:** Shifting stone bridges, chasms, swarm hazards.
+- **Objectives:** Crystalline spires / Binding runes.
+- **Design note:** High environment lethality; emphasis on objective actions ("Loot" / "Bind").
 
 ---
 
